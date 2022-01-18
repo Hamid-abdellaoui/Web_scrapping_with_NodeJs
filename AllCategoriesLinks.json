@@ -45,20 +45,20 @@
 		"www.programmer-books.com/category/system-administrations-books/bash-scripting/": "Bash Scripting"
 	},
 	"Data": {
-		"Data Science": "www.programmer-books.com/category/data-science-books/",
-		"Machine learning": "www.programmer-books.com/category/machine-learning-books/",
-		"Artificial Intelligence": "www.programmer-books.com/category/artificial-intelligence-books/",
-		"Deep Learning": "www.programmer-books.com/category/deep-learning-books/",
-		"Neural Networks": "www.programmer-books.com/category/deep-learning-books/neural-networks-books/"
+		"www.programmer-books.com/category/data-science-books/": "Data Science",
+		"www.programmer-books.com/category/machine-learning-books/": "Machine learning",
+		"www.programmer-books.com/category/artificial-intelligence-books/": "Artificial Intelligence",
+		"www.programmer-books.com/category/deep-learning-books/": "Deep Learning",
+		"www.programmer-books.com/category/deep-learning-books/neural-networks-books/": "Neural Networks"
 	},
 	"Databases_Books": {
 		"www.programmer-books.com/category/web-development-programming-languages/sql-language/": "SQL Language",
 		"www.programmer-books.com/category/mongodb-books/": "MongoDB"
 	},
 	"Others": {
-		"Game development": "www.programmer-books.com/category/game-development-books/",
-		"Raspberry Pi": "www.programmer-books.com/category/raspberry-pi-books/",
-		"Security": "www.programmer-books.com/category/security/",
-		"Top collections": "www.programmer-books.com/category/top-books-collections/"
+		"www.programmer-books.com/category/game-development-books/": "Game development",
+		"www.programmer-books.com/category/raspberry-pi-books/": "Raspberry Pi",
+		"www.programmer-books.com/category/security/": "Security",
+		"www.programmer-books.com/category/top-books-collections/": "Top collections"
 	}
 }
