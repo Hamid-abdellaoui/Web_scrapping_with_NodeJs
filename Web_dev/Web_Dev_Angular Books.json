@@ -1,0 +1,929 @@
+[
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.pdf"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.pdf"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.pdf"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.pdf"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.pdf"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.pdf"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.pdf"
+    },
+    
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    },
+    
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    },
+
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    },
+   
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    },
+
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    },
+   
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    },
+
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    },
+    
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    },
+   
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    },
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    },
+
+    {
+        "title": "Building Modern Web Applications Using Angular [pdf]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Building Modern Web Applications Using Angular.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-web-applications-using-angular/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/06/Building%20Modern%20Web%20Applications%20Using%20Angular.png"
+    },
+    {
+        "title": "Angular in Action",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-in-action/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Angular-in-Action.jpg"
+    },
+    {
+        "title": "Testing Angular Applications",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/testing-angular-applications/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Testing-Angular-Applications.jpg"
+    },
+    {
+        "title": "Angular 2 Development with TypeScript",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg"
+    },
+    {
+        "title": "Pro Angular 6, 3rd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-angular-6-3rd-edition/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Pro-Angular-6-3rd-Edition.jpg"
+    },
+    {
+        "title": "Node.js MongoDB and AngularJS Web Development [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/node-js-mongodb-and-angularjs-web-development-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/9780134655536_SampleCh03.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Node.js-MongoDB-and-AngularJS-Web-Development.jpg"
+    },
+    {
+        "title": "Getting MEAN with Mongo, Express, Angular, and Node [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-mean-with-mongo-express-angular-and-node-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Getting%20MEAN%20with%20Mongo,%20Express,%20Angular,%20and%20Node.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/meanStack.png"
+    },
+    {
+        "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Front-end%20Development%20with%20ASP.NET%20Core,%20Angular,%20and%20Bootstrap.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/asp.netfrontenddev.png"
+    },
+    {
+        "title": "Angular 2 Cookbook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angular2.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-2-cookbook-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Frisbie-M.-Angular-2-Cookbook-2017.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angular2.png"
+    },
+    {
+        "title": "AngularJS: Novice to Ninja: Elegant, Powerful, Testable, Extendable [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angularjs-novice-to-ninja-elegant-powerful-testable-extendable-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/AngularJS-Novice-to-Ninja.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/angularjs-novice-to-ninja-elegant.jpg"
+    },
+    {
+        "title": "Angular Pro [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/angular-pro-pdf/",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro%20Angular.pdf",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/Pro-Angular-2nd-Edition.jpg"
+    }
+]

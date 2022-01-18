@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Introducing Materialize",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Introducing-Materialize.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/introducing-materialize/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/Introducing-Materialize.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/Introducing-Materialize.pdf"
+    },
+    {
+        "title": "SVG Essentials, 2nd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/SVG-Essentials-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/svg-essentials-2nd-edition/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/SVG-Essentials-2nd-Edition.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/SVG-Essentials-2nd-Edition.pdf"
+    },
+    {
+        "title": "Bootstrap By Example",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Bootstrap-By-Example-400x493.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/bootstrap-by-example/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/Bootstrap-By-Example-400x493.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/Bootstrap-By-Example-400x493.pdf"
+    },
+    {
+        "title": "Pro HTML5 with CSS, JavaScript, and Multimedia",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Pro-HTML5-with-CSS-JavaScript-and-Multimedia.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-html5-with-css-javascript-and-multimedia/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/Pro-HTML5-with-CSS-JavaScript-and-Multimedia.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/Pro-HTML5-with-CSS-JavaScript-and-Multimedia.pdf"
+    },
+    {
+        "title": "UX Optimization",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/UX-Optimization.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/ux-optimization/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/UX-Optimization.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/UX-Optimization.pdf"
+    },
+    {
+        "title": "Photoshop Elements 2018 For Dummies",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Photoshop-Elements-2018-For-Dummies.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/photoshop-elements-2018-for-dummies/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Photoshop-Elements-2018-For-Dummies.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Photoshop-Elements-2018-For-Dummies.pdf"
+    },
+    {
+        "title": "Beginning SVG",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-SVG.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/beginning-svg/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-SVG.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-SVG.pdf"
+    },
+    {
+        "title": "Responsive Web Design by Example [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/11/Responsive-Web-Design-by-Example.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/responsive-web-design-by-example-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/11/Responsive-Web-Design-by-Example.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/11/Responsive-Web-Design-by-Example.pdf"
+    },
+    {
+        "title": "CSS Framework Alternatives [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/11/CSS-Framework-Alternatives.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/css-framework-alternatives-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/11/CSS-Framework-Alternatives.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/11/CSS-Framework-Alternatives.pdf"
+    },
+    {
+        "title": "HTML and CSS: Visual QuickStart Guide [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/11/HTML-and-CSS-Visual-QuickStart-Guide.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/html-and-css-visual-quickstart-guide-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/11/HTML-and-CSS-Visual-QuickStart-Guide.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/11/HTML-and-CSS-Visual-QuickStart-Guide.pdf"
+    }
+]

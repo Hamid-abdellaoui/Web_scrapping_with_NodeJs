@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Pro MERN Stack",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Pro-MERN-Stack.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-mern-stack/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/Pro-MERN-Stack.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/Pro-MERN-Stack.pdf"
+    },
+    {
+        "title": "Practical React Native",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Practical-React-Native.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/practical-react-native/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/02/Practical-React-Native.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/02/Practical-React-Native.pdf"
+    },
+    {
+        "title": "Getting Started with React",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Getting-Started-with-React.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/getting-started-with-react/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/Getting-Started-with-React.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/01/Getting-Started-with-React.pdf"
+    },
+    {
+        "title": "React in Action",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/React-in-Action.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/react-in-action/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/01/React-in-Action.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/01/React-in-Action.pdf"
+    },
+    {
+        "title": "Learning React Native [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Learning-React-Native.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/learning-react-native-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Learning-React-Native.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/Learning-React-Native.pdf"
+    },
+    {
+        "title": "Mastering React [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Mastering-React.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/mastering-react-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Mastering-React.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/Mastering-React.pdf"
+    },
+    {
+        "title": "Reactjs Succinctly [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Reactjs.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/reactjs-succinctly-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Reactjs.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/Reactjs.pdf"
+    },
+    {
+        "title": "Pro React [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/proreact.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-react-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/proreact.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/proreact.pdf"
+    },
+    {
+        "title": "Programming React Native [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/reactnative.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/programming-react-native-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/reactnative.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/reactnative.pdf"
+    },
+    {
+        "title": "Hacking with React [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/hacking-with-react.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/hacking-with-react-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/07/hacking-with-react.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/07/hacking-with-react.pdf"
+    }
+]

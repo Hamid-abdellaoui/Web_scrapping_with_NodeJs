@@ -1,0 +1,72 @@
+[
+    {
+        "title": "Introducing Materialize",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Introducing-Materialize.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/introducing-materialize/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/Introducing-Materialize.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/Introducing-Materialize.pdf"
+    },
+    {
+        "title": "An Introduction to HTML5 Game Development with Phaser.js",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/An-Introduction-to-HTML5-Game-Development-with-Phaserjs.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/an-introduction-to-html5-game-development-with-phaser-js/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/An-Introduction-to-HTML5-Game-Development-with-Phaserjs.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/An-Introduction-to-HTML5-Game-Development-with-Phaserjs.pdf"
+    },
+    {
+        "title": "HTML5 for Flash Developers",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/HTML5-for-Flash-Developers-400x493.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/html5-for-flash-developers/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/HTML5-for-Flash-Developers-400x493.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/HTML5-for-Flash-Developers-400x493.pdf"
+    },
+    {
+        "title": "SVG Essentials, 2nd Edition",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/SVG-Essentials-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/svg-essentials-2nd-edition/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/SVG-Essentials-2nd-Edition.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/SVG-Essentials-2nd-Edition.pdf"
+    },
+    {
+        "title": "Bootstrap By Example",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Bootstrap-By-Example-400x493.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/bootstrap-by-example/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/Bootstrap-By-Example-400x493.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/Bootstrap-By-Example-400x493.pdf"
+    },
+    {
+        "title": "Pro HTML5 with CSS, JavaScript, and Multimedia",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Pro-HTML5-with-CSS-JavaScript-and-Multimedia.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-html5-with-css-javascript-and-multimedia/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/Pro-HTML5-with-CSS-JavaScript-and-Multimedia.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/Pro-HTML5-with-CSS-JavaScript-and-Multimedia.pdf"
+    },
+    {
+        "title": "Java EE and HTML5 Enterprise Application Development",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Java-EE-and-HTML5-Enterprise-Application-Development-400x493.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/java-ee-and-html5-enterprise-application-development/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/05/Java-EE-and-HTML5-Enterprise-Application-Development-400x493.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/05/Java-EE-and-HTML5-Enterprise-Application-Development-400x493.pdf"
+    },
+    {
+        "title": "Pro HTML5 Games, 2nd Edition",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Pro-HTML5-Games-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/pro-html5-games-2nd-edition/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/04/Pro-HTML5-Games-2nd-Edition.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/04/Pro-HTML5-Games-2nd-Edition.pdf"
+    },
+    {
+        "title": "Windows 8.1 Apps with HTML5 and JavaScript Unleashed",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Windows-8.1-Apps-with-HTML5-and-JavaScript-Unleashed.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/windows-8-1-apps-with-html5-and-javascript-unleashed/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/Windows-8.1-Apps-with-HTML5-and-JavaScript-Unleashed.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/Windows-8.1-Apps-with-HTML5-and-JavaScript-Unleashed.pdf"
+    },
+    {
+        "title": "PHP, MySQL, JavaScript & HTML5 All-in-One For Dummies",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/PHP-MySQL-JavaScript-HTML5-All-in-One-For-Dummies.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/php-mysql-javascript-html5-all-in-one-for-dummies/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2019/03/PHP-MySQL-JavaScript-HTML5-All-in-One-For-Dummies.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2019/03/PHP-MySQL-JavaScript-HTML5-All-in-One-For-Dummies.pdf"
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Learning Laravel’s Eloquent [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/11/Learning-Laravels-Eloquent.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/learning-laravels-eloquent-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/11/Learning-Laravels-Eloquent.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/11/Learning-Laravels-Eloquent.pdf"
+    },
+    {
+        "title": "Building A Web Application With LARAVEL 5 [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Building-A-Web-Application-With-LARAVEL-5.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/building-a-web-application-with-laravel-5-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/09/Building-A-Web-Application-With-LARAVEL-5.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/09/Building-A-Web-Application-With-LARAVEL-5.pdf"
+    },
+    {
+        "title": "Laravel 5 Essentials [PDF]",
+        "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Laravel-5-Essentials-1.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/laravel-5-essentials-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/Laravel-5-Essentials-1.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Laravel-5-Essentials-1.pdf"
+    },
+    {
+        "title": "Laravel 5 CookBook [PDF]",
+        "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Laravel-5-Cookbook.jpg?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/laravel-5-cookbook-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/Laravel-5-Cookbook.jpg",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/Laravel-5-Cookbook.pdf"
+    },
+    {
+        "title": "Laravel: Up and Running [PDF]",
+        "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/laraveluprunning.png?resize=100%2C70&ssl=1",
+        "source": "https://www.programmer-books.com/laravel-up-and-running-pdf/",
+        "large_pic": "https://www.programmer-books.com/wp-content/uploads/2018/08/laraveluprunning.png",
+        "link": "https://www.programmer-books.com/wp-content/uploads/2018/08/laraveluprunning.pdf"
+    }
+]
