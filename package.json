@@ -2,9 +2,9 @@
   "name": "scrp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "scrap.js",
   "scripts": {
-    "start":"node index.js"
+    "start":"node scrap.js"
   },
   "keywords": [],
   "author": "",

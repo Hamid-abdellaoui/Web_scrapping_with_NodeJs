@@ -1,64 +1,64 @@
 {
 	"Web_development": {
-		"www.programmer-books.com/category/web-development-programming-languages/angular-books/": "Angular",
-		"www.programmer-books.com/category/web-development-programming-languages/css3-language/": "CSS3 Language",
-		"www.programmer-books.com/category/web-development-programming-languages/html5-language/": "HTML5 Language",
-		"www.programmer-books.com/category/web-development-programming-languages/jquery-books/": "JQuery",
-		"www.programmer-books.com/category/web-development-programming-languages/laravel-books/": "Laravel",
-		"www.programmer-books.com/category/web-development-programming-languages/reactjs-books/": "Reactjs",
-		"www.programmer-books.com/category/web-development-programming-languages/nodejs-books/": "NodeJs",
-		"www.programmer-books.com/category/web-development-programming-languages/sails-js-books/": "Sails.js",
-		"www.programmer-books.com/category/web-development-programming-languages/typescript-books/": "TypeScript",
-		"www.programmer-books.com/category/web-development-programming-languages/vue-js-books/": "Vue.Js",
-		"www.programmer-books.com/category/web-development-programming-languages/symfony-books/": "Symfony",
-		"www.programmer-books.com/category/web-development-programming-languages/github-books/": "Github"
+		"https://www.programmer-books.com/category/web-development-programming-languages/angular-books/": "Angular",
+		"https://www.programmer-books.com/category/web-development-programming-languages/css3-language/": "CSS3 Language",
+		"https://www.programmer-books.com/category/web-development-programming-languages/html5-language/": "HTML5 Language",
+		"https://www.programmer-books.com/category/web-development-programming-languages/jquery-books/": "JQuery",
+		"https://www.programmer-books.com/category/web-development-programming-languages/laravel-books/": "Laravel",
+		"https://www.programmer-books.com/category/web-development-programming-languages/reactjs-books/": "Reactjs",
+		"https://www.programmer-books.com/category/web-development-programming-languages/nodejs-books/": "NodeJs",
+		"https://www.programmer-books.com/category/web-development-programming-languages/sails-js-books/": "Sails.js",
+		"https://www.programmer-books.com/category/web-development-programming-languages/typescript-books/": "TypeScript",
+		"https://www.programmer-books.com/category/web-development-programming-languages/vue-js-books/": "Vue.Js",
+		"https://www.programmer-books.com/category/web-development-programming-languages/symfony-books/": "Symfony",
+		"https://www.programmer-books.com/category/web-development-programming-languages/github-books/": "Github"
 	},
 	"Software_Development": {
-		"www.programmer-books.com/category/software-development-languages/python-language/": "Python Language",
-		"www.programmer-books.com/category/software-development-languages/java-language/": "Java Language",
-		"www.programmer-books.com/category/software-development-languages/net-language/": ".NET language",
-		"www.programmer-books.com/category/software-development-languages/c-language/": "C Language",
-		"www.programmer-books.com/category/software-development-languages/c-plus-plus-language/": "C++ Language",
-		"www.programmer-books.com/category/software-development-languages/c-language-software-development-languages/": "C# Language",
-		"www.programmer-books.com/category/software-development-languages/perl/": "Perl",
-		"www.programmer-books.com/category/ruby-language/": "Ruby Language",
-		"www.programmer-books.com/category/software-development-languages/go-language/": " Go Language",
-		"www.programmer-books.com/category/software-development-languages/r-language/": " R Language",
-		"www.programmer-books.com/category/software-development-languages/erlang/": "Erlang",
-		"www.programmer-books.com/category/scala-books/": "Scala"
+		"https://www.programmer-books.com/category/software-development-languages/python-language/": "Python Language",
+		"https://www.programmer-books.com/category/software-development-languages/java-language/": "Java Language",
+		"https://www.programmer-books.com/category/software-development-languages/net-language/": ".NET language",
+		"https://www.programmer-books.com/category/software-development-languages/c-language/": "C Language",
+		"https://www.programmer-books.com/category/software-development-languages/c-plus-plus-language/": "C++ Language",
+		"https://www.programmer-books.com/category/software-development-languages/c-language-software-development-languages/": "C# Language",
+		"https://www.programmer-books.com/category/software-development-languages/perl/": "Perl",
+		"https://www.programmer-books.com/category/ruby-language/": "Ruby Language",
+		"https://www.programmer-books.com/category/software-development-languages/go-language/": " Go Language",
+		"https://www.programmer-books.com/category/software-development-languages/r-language/": " R Language",
+		"https://www.programmer-books.com/category/software-development-languages/erlang/": "Erlang",
+		"https://www.programmer-books.com/category/scala-books/": "Scala"
 	},
 	"Mobile_development": {
-		"www.programmer-books.com/category/mobile-development/android/": "Android",
-		"www.programmer-books.com/category/mobile-development/ios/": "iOS",
-		"www.programmer-books.com/category/mobile-development/ionic-books/": "Ionic",
-		"www.programmer-books.com/category/mobile-development/kotlin-language/": "Kotlin Language",
-		"www.programmer-books.com/category/swift-language/": "Swift Language,"
+		"https://www.programmer-books.com/category/mobile-development/android/": "Android",
+		"https://www.programmer-books.com/category/mobile-development/ios/": "iOS",
+		"https://www.programmer-books.com/category/mobile-development/ionic-books/": "Ionic",
+		"https://www.programmer-books.com/category/mobile-development/kotlin-language/": "Kotlin Language",
+		"https://www.programmer-books.com/category/swift-language/": "Swift Language,"
 	},
 	"System_Administrations": {
-		"www.programmer-books.com/category/system-administrations-books/cloud-books/": "Cloud",
-		"www.programmer-books.com/category/system-administrations-books/amazon-web-services-aws-books/": "Amazon Web Services (AWS)",
-		"www.programmer-books.com/category/software-development-languages/go-language/docker/": "Docker",
-		"www.programmer-books.com/category/system-administrations-books/linux-books/": "Linux",
-		"www.programmer-books.com/category/system-administrations-books/windows-administrations-books/": "Windows Administrations",
-		"www.programmer-books.com/category/vmware-vsphere-books/": "VMware vSphere",
-		"www.programmer-books.com/category/system-administrations-books/network-administrations-books/": "Network Administrations",
-		"www.programmer-books.com/category/system-administrations-books/bash-scripting/": "Bash Scripting"
+		"https://www.programmer-books.com/category/system-administrations-books/cloud-books/": "Cloud",
+		"https://www.programmer-books.com/category/system-administrations-books/amazon-web-services-aws-books/": "Amazon Web Services (AWS)",
+		"https://www.programmer-books.com/category/software-development-languages/go-language/docker/": "Docker",
+		"https://www.programmer-books.com/category/system-administrations-books/linux-books/": "Linux",
+		"https://www.programmer-books.com/category/system-administrations-books/windows-administrations-books/": "Windows Administrations",
+		"https://www.programmer-books.com/category/vmware-vsphere-books/": "VMware vSphere",
+		"https://www.programmer-books.com/category/system-administrations-books/network-administrations-books/": "Network Administrations",
+		"https://www.programmer-books.com/category/system-administrations-books/bash-scripting/": "Bash Scripting"
 	},
 	"Data": {
-		"www.programmer-books.com/category/data-science-books/": "Data Science",
-		"www.programmer-books.com/category/machine-learning-books/": "Machine learning",
-		"www.programmer-books.com/category/artificial-intelligence-books/": "Artificial Intelligence",
-		"www.programmer-books.com/category/deep-learning-books/": "Deep Learning",
-		"www.programmer-books.com/category/deep-learning-books/neural-networks-books/": "Neural Networks"
+		"https://www.programmer-books.com/category/data-science-books/": "Data Science",
+		"https://www.programmer-books.com/category/machine-learning-books/": "Machine learning",
+		"https://www.programmer-books.com/category/artificial-intelligence-books/": "Artificial Intelligence",
+		"https://www.programmer-books.com/category/deep-learning-books/": "Deep Learning",
+		"https://www.programmer-books.com/category/deep-learning-books/neural-networks-books/": "Neural Networks"
 	},
 	"Databases_Books": {
-		"www.programmer-books.com/category/web-development-programming-languages/sql-language/": "SQL Language",
-		"www.programmer-books.com/category/mongodb-books/": "MongoDB"
+		"https://www.programmer-books.com/category/web-development-programming-languages/sql-language/": "SQL Language",
+		"https://www.programmer-books.com/category/mongodb-books/": "MongoDB"
 	},
 	"Others": {
-		"www.programmer-books.com/category/game-development-books/": "Game development",
-		"www.programmer-books.com/category/raspberry-pi-books/": "Raspberry Pi",
-		"www.programmer-books.com/category/security/": "Security",
-		"www.programmer-books.com/category/top-books-collections/": "Top collections"
+		"https://www.programmer-books.com/category/game-development-books/": "Game development",
+		"https://www.programmer-books.com/category/raspberry-pi-books/": "Raspberry Pi",
+		"https://www.programmer-books.com/category/security/": "Security",
+		"https://www.programmer-books.com/category/top-books-collections/": "Top collections"
 	}
 }

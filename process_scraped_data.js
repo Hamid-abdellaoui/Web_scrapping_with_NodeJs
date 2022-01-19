@@ -3,46 +3,32 @@ const request = require("request");
 const fs = require("fs");
 const { url } = require("inspector");
 
-/********Let's creat an array that contains all the json files' names ********/
+/**************** import data and retrieving the keys and entries************** */
+const data = require('./AllCategoriesLinks.json');
+Categories=Object.keys(data)
 
-Web_Dev = {
-    "https://www.programmer-books.com/category/web-development-programming-languages/angular-books/":
-        "Angular Books",
-    "https://www.programmer-books.com/category/web-development-programming-languages/css3-language/":
-        "CSS3 Language",
-    "https://www.programmer-books.com/category/web-development-programming-languages/html5-language/":
-        "HTML5 Language",
-    "https://www.programmer-books.com/category/web-development-programming-languages/jquery-books/":
-        "JQuery Books",
-    "https://www.programmer-books.com/category/web-development-programming-languages/laravel-books/":
-        "Laravel Books",
-    "https://www.programmer-books.com/category/web-development-programming-languages/reactjs-books/":
-        "Reactjs Books",
-    "https://www.programmer-books.com/category/web-development-programming-languages/nodejs-books/":
-        "NodeJs Books",
-    "https://www.programmer-books.com/category/web-development-programming-languages/sails-js-books/":
-        "Sails.js Books",
-    "https://www.programmer-books.com/category/web-development-programming-languages/typescript-books/":
-        "TypeScript Books",
-    "https://www.programmer-books.com/category/web-development-programming-languages/vue-js-books/":
-        "Vue.Js Books",
-    "https://www.programmer-books.com/category/web-development-programming-languages/symfony-books/":
-        "Symfony Books",
-    "https://www.programmer-books.com/category/web-development-programming-languages/github-books/":
-        "Github Books",
-};
+
+/********Let's creat an array that contains all the json files' paths 
+ *(we will need them later in creatDownloadLink() and LargePicture() functions) ********/
 
 json_Files = [];
-arr = Object.entries(Web_Dev);
-for (let index = 0; index < arr.length; index++) {
-    subCategory = arr[index][1];
-    str = "Web_Dev" + "_" + subCategory + ".json";
-    json_Files.push(str);
+
+for (let i = 0; i < Categories.length; i++) {
+    key= Categories[i]
+    Category = data[key]
+    Category_name = String(key)
+    arr = Object.entries(Category);
+    for (let index = 0; index < arr.length; index++) {
+        subCategory = arr[index][1];
+        str = "Assets/"+Category_name+"/"+String(subCategory)+".json";
+        json_Files.push(str);
+    }
 }
 
 // console.table(json_Files)
 
-/************* creatDownloadLink :  a function that will create download links and add them into json files *******/
+
+/************* CreatDownloadLink :  a function that will create download links and add them into json files *******/
 
 function creatDownloadLink(json_Files) {
     for (let i = 0; i < json_Files.length; i++) {
@@ -77,7 +63,7 @@ function creatDownloadLink(json_Files) {
     }
 }
 
-/************* LargePicture a function that will create the large image download links and add them into json files *******/
+/************* LargePicture: a function that will create the large image download links and add them into json files *******/
 
 function LargePicture(json_Files) {
     for (let i = 0; i < json_Files.length; i++) {
@@ -98,6 +84,6 @@ function LargePicture(json_Files) {
     }
 }
 
-LargePicture(json_Files);
 
+LargePicture(json_Files);
 creatDownloadLink(json_Files);

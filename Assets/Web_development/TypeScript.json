@@ -1,0 +1,51 @@
+[
+
+  {
+    "title": "JSF 1.2 Components",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/JSF-1.2-Components-400x494.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/jsf-1-2-components/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/JSF-1.2-Components.pdf"
+  },
+  {
+    "title": "Learning TypeScript",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Learning-TypeScript-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-typescript/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Learning-TypeScript.pdf"
+  },
+  {
+    "title": "Angular 2 Development with TypeScript",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Angular-2-Development-with-TypeScript.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/angular-2-development-with-typescript/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/angular-2-development-typescript-allitebooks.in_.pdf"
+  },
+  {
+    "title": "Designing Scalable JavaScript Applications",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Designing-Scalable-JavaScript-Applications.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/designing-scalable-javascript-applications/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Designing_Scalable_JavaScript_Applicatio.pdf"
+  },
+  {
+    "title": "TypeScript Design Patterns [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/TypeScript-Design-Patterns.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/typescript-design-patterns-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/TypeScript-Design-Patterns.pdf"
+  },
+  {
+    "title": "TypeScript Notes for Professionals [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/TypeScript-notes-for-professionals.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/typescript-notes-for-professionals-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/TypeScriptNotesForProfessionals.pdf"
+  },
+  {
+    "title": "TypeScript Deep Dive [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/TypeScript-Deep-Dive.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/typescript-deep-dive-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/typescript.pdf"
+  },
+  {
+    "title": "Mastering TypeScript (2015) [pdf]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Mastering TypeScript (2015).png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/mastering-typescript-2015-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Mastering TypeScript (2015).pdf"
+  }
+]
