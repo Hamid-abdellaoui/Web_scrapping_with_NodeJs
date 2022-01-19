@@ -26,3 +26,16 @@ each json file conatain list of books and each books has 5 keys : <br>
 `"source" ` : the source page (wher we scrapped the data of the book)  
 `"link" ` :  a direct link to download book in pdf version  
 `"large_pic" ` : the cover image of book (good quality)
+
+##  <i style="color:lightgreen"> <u> Wana run it in your computer? </i> </u>
+> <i> First ake sure you have Node js installed and tap thes commands:</i> 
+
+> `npm install`
+
+>>`node main_scrap.js`
+
+>>`node process_scraped_data.js`
+
+> <i> Alternatively jus run this command:</i> 
+
+>>`npm run start`

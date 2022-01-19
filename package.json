@@ -4,7 +4,7 @@
   "description": "",
   "main": "scrap.js",
   "scripts": {
-    "start":"npm run main_scrap.js && npm run process_scraped_data.js "
+    "start":"npm install && npm run main_scrap.js && npm run process_scraped_data.js "
   },
   "keywords": [],
   "author": "",
