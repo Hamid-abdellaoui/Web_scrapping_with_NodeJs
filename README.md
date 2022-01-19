@@ -30,7 +30,7 @@ each json file conatain list of books and each books has 5 keys : <br>
 <br>
 
 ##  <i style="color:lightgreen"> <u> Wana run it in your computer? </i> </u>
-* <i> First make sure you have Node js installed and tap thes commands:</i> 
+* <i> First make sure you have Node js installed and run these commands:</i> 
 
     >`npm install`
 
