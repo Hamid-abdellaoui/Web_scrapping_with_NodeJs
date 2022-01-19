@@ -33,13 +33,13 @@ each json file conatain list of books and each books has 5 keys : <br>
 * <i> First make sure you have Node js installed and run these commands:</i> 
 
 >
-```
+```js
 npm install
 ```
-```
+```js
 node main_scrap.js
 ```
-```
+```js
 node process_scraped_data.js
 ```
 
