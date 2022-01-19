@@ -29,14 +29,14 @@ each json file conatain list of books and each books has 5 keys : <br>
 <br>
 <br>
 
-##  <i style="color:lightgreen"> <u> Wana run it in your computer? </i> </u>
+##  <span style="color:lightgreen"> <u> Wana run it in your computer? </span> </u>
 * <i> First make sure you have Node js installed and run these commands:</i> 
 
 >
 ```js
 npm install
 ```
-```js
+```
 node main_scrap.js
 ```
 ```js
