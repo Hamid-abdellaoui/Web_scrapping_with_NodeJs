@@ -18,10 +18,10 @@ Categories=Object.keys(data)
 
 function scrap_by_category(Category, Category_name) { //Category must be an object and the Category name must be a string
     arr = Object.entries(Category);
-    console.log(arr);
+    // console.log(arr);
     for (let index = 0; index < arr.length; index++) {
         myUrl =arr[index][0]
-        console.log(myUrl);
+        // console.log(myUrl);
         subCategory = arr[index][1]
 
         xray(myUrl, ".td-block-span6", [
@@ -35,22 +35,31 @@ function scrap_by_category(Category, Category_name) { //Category must be an obje
             .paginate(".page-nav a:last-of-type@href")
             .limit(23)
             .write("Assets/"+Category_name+"/"+String(subCategory)+".json");
-    }
+        console.log("Scrapped :  Assets/"+Category_name+"/"+String(subCategory)+".json");
+        }
     
 }
 
 
 /******************** let's start scraping***************** */
-for (let i = 0; i < Categories.length; i++) {
-    key= Categories[i]
+// for (let i = 0; i < Categories.length ; i++) {
+//     key= Categories[i]
+//     // to create the directories
+//     Category_name = String(key)
+//     targetDir='Assets/'+Category_name
+//     fs.mkdirSync(targetDir, { recursive: true }); 
 
-    // to create the directories
-    Category_name = String(key)
-    targetDir='Assets/'+Category_name
-    fs.mkdirSync(targetDir, { recursive: true }); 
+// }
 
-    // Scrap by category
-    Category = data[key];
-    scrap_by_category(Category,Category_name)
-}
+// for (let i = 0; i < Categories.length ; i++) {
+//     // Scrap by category
+//     key= Categories[i]
+//     Category_name = String(key)
+//     Category = data[key];
+//     scrap_by_category(Category,Category_name)
+// }
 
+key= Categories[0]
+Category_name = String(key)
+Category = data[key];
+scrap_by_category(Category,Category_name)
