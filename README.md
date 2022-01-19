@@ -32,12 +32,19 @@ each json file conatain list of books and each books has 5 keys : <br>
 ##  <i style="color:lightgreen"> <u> Wana run it in your computer? </i> </u>
 * <i> First make sure you have Node js installed and run these commands:</i> 
 
-    >`npm install`
+>
+```
+npm install
+```
+```
+node main_scrap.js
+```
+```
+node process_scraped_data.js
+```
 
-    >`node main_scrap.js`
-
-    >`node process_scraped_data.js`
 
 * <i> Alternatively just run this command:</i> 
-
-    >`npm run start`
+```
+npm run start
+```
