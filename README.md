@@ -21,11 +21,11 @@ The scripts and files in this repo: <br>
 ##  <i style="color:lightgreen"> <u> About data </i> </u>
 each json file conatain list of books and each books has 5 keys : <br> 
 
-`"title" `: the title of book  
-`"picture" `: small square images of cover  
-`"source" ` : the source page (wher we scrapped the data of the book)  
-`"link" ` :  a direct link to download book in pdf version  
-`"large_pic" ` : the cover image of book (good quality)
+`"title"`: the title of book  
+`"picture"`: small square images of cover  
+`"source"` : the source page (wher we scrapped the data of the book)  
+`"link"` :  a direct link to download book in pdf version  
+`"large_pic"` : the cover image of book (good quality)
 <br>
 <br>
 
