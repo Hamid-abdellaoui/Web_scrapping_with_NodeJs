@@ -1,2 +1,43 @@
 [
+
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/"
+  },
+  {
+    "title": "AWS Certified Advanced Networking Official Study Guide",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/AWS-Certified-Advanced-Networking-Official-Study-Guide.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/aws-certified-advanced-networking-official-study-guide/"
+  },
+  {
+    "title": "Practical API Architecture and Development with Azure and AWS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Practical-API-Architecture-and-Development-with-Azure-and-AWS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-api-architecture-and-development-with-azure-and-aws/"
+  },
+  {
+    "title": "Amazon Web Services in Action, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Amazon-Web-Services-in-Action-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/amazon-web-services-in-action-2nd-edition/"
+  },
+  {
+    "title": "Practical API Architecture and Development with Azure and AWS [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/practicalapiawsazure.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-api-architecture-and-development-with-azure-and-aws-pdf/"
+  },
+  {
+    "title": "AWS Certified SysOps Administrator Official Study Guide: Associate Exam [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/awscert-1.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/aws-certified-sysops-administrator-official-study-guide-associate-exam-pdf/"
+  },
+  {
+    "title": "AWS Lambda Quick Start Guide [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/awslambda.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/aws-lambda-quick-start-guide-pdf/"
+  },
+  {
+    "title": "AWS Certified Solutions Architect [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/awsb.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/aws-certified-solutions-architect-pdf/"
+  }
 ]

@@ -54,7 +54,8 @@
   {
     "title": "Visual C# 2005 Demystified",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified-400x496.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/visual-c-2005-demystified/"
+    "source": "https://www.programmer-books.com/visual-c-2005-demystified/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified.pdf"
   },
   {
     "title": "NHibernate in Action",
@@ -71,12 +72,14 @@
   {
     "title": "Practical Artificial Intelligence",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-artificial-intelligence/"
+    "source": "https://www.programmer-books.com/practical-artificial-intelligence/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.pdf"
   },
   {
     "title": "C# 7 Quick Syntax Reference, 2nd Edition",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/"
+    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference-2nd-Edition.pdf"
   },
   {
     "title": "Exploring Neural Networks with C#",
@@ -93,7 +96,8 @@
   {
     "title": "Beginning C# 7 Programming with Visual Studio 2017 [PDF]",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogvs.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/"
+    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/BEGINNING-C-7-Programming-with-Visual-Studio-2017.pdf"
   },
   {
     "title": "Beginning ASP.NET 4.5.1 in CSharp and VB [PDF]",
@@ -111,12 +115,680 @@
   {
     "title": "FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C# [PDF]",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Intro-Csharp-Book-front-cover-big_en.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/"
+    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf"
   },
   {
     "title": "Advanced C# programming Paul Kimmel [pdf]",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/advanced-C-Sharp-programming.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/"
+    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Mcgraw-Advanced-C-Sharp-Programming.pdf"
+  }
+,
+  {
+    "title": "Visual C# 2005 Demystified",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified-400x496.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/visual-c-2005-demystified/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified.pdf"
+  },
+  {
+    "title": "NHibernate in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nhibernate-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.pdf"
+  },
+  {
+    "title": "Design Patterns in C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Design-Patterns-in-C.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/design-patterns-in-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Design-Patterns-in-C.pdf"
+  },
+  {
+    "title": "Practical Artificial Intelligence",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-artificial-intelligence/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.pdf"
+  },
+  {
+    "title": "C# 7 Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Exploring Neural Networks with C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C.jpeg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-neural-networks-with-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C-.pdf"
+  },
+  {
+    "title": "C# Machine Learning Projects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpmachinelearning.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-machine-learning-projects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c-machine-learning-projects.pdf"
+  },
+  {
+    "title": "Beginning C# 7 Programming with Visual Studio 2017 [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogvs.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/BEGINNING-C-7-Programming-with-Visual-Studio-2017.pdf"
+  },
+  {
+    "title": "Beginning ASP.NET 4.5.1 in CSharp and VB [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Beginning-ASPNET-4.5.1-in-C-and-VB.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-asp-net-4-5-1-in-csharp-and-vb-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com_.pdf"
+  },
+  {
+    "title": "C# Programming in easy steps [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogramming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-easy-steps-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/In.Easy.Steps.Cplusplus.Programming.in.easy.steps.5th.Edition.pdf"
+  }
+,
+  {
+    "title": "FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C# [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Intro-Csharp-Book-front-cover-big_en.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf"
+  },
+  {
+    "title": "Advanced C# programming Paul Kimmel [pdf]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/advanced-C-Sharp-programming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Mcgraw-Advanced-C-Sharp-Programming.pdf"
+  }
+,
+  {
+    "title": "Visual C# 2005 Demystified",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified-400x496.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/visual-c-2005-demystified/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified.pdf"
+  },
+  {
+    "title": "NHibernate in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nhibernate-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.pdf"
+  },
+  {
+    "title": "Design Patterns in C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Design-Patterns-in-C.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/design-patterns-in-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Design-Patterns-in-C.pdf"
+  },
+  {
+    "title": "Practical Artificial Intelligence",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-artificial-intelligence/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.pdf"
+  },
+  {
+    "title": "C# 7 Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Exploring Neural Networks with C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C.jpeg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-neural-networks-with-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C-.pdf"
+  },
+  {
+    "title": "C# Machine Learning Projects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpmachinelearning.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-machine-learning-projects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c-machine-learning-projects.pdf"
+  },
+  {
+    "title": "Beginning C# 7 Programming with Visual Studio 2017 [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogvs.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/BEGINNING-C-7-Programming-with-Visual-Studio-2017.pdf"
+  },
+  {
+    "title": "Beginning ASP.NET 4.5.1 in CSharp and VB [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Beginning-ASPNET-4.5.1-in-C-and-VB.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-asp-net-4-5-1-in-csharp-and-vb-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com_.pdf"
+  },
+  {
+    "title": "C# Programming in easy steps [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogramming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-easy-steps-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/In.Easy.Steps.Cplusplus.Programming.in.easy.steps.5th.Edition.pdf"
+  }
+,
+  {
+    "title": "FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C# [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Intro-Csharp-Book-front-cover-big_en.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf"
+  },
+  {
+    "title": "Advanced C# programming Paul Kimmel [pdf]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/advanced-C-Sharp-programming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Mcgraw-Advanced-C-Sharp-Programming.pdf"
+  }
+,
+  {
+    "title": "Visual C# 2005 Demystified",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified-400x496.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/visual-c-2005-demystified/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified.pdf"
+  },
+  {
+    "title": "NHibernate in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nhibernate-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.pdf"
+  },
+  {
+    "title": "Design Patterns in C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Design-Patterns-in-C.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/design-patterns-in-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Design-Patterns-in-C.pdf"
+  },
+  {
+    "title": "Practical Artificial Intelligence",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-artificial-intelligence/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.pdf"
+  },
+  {
+    "title": "C# 7 Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Exploring Neural Networks with C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C.jpeg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-neural-networks-with-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C-.pdf"
+  },
+  {
+    "title": "C# Machine Learning Projects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpmachinelearning.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-machine-learning-projects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c-machine-learning-projects.pdf"
+  },
+  {
+    "title": "Beginning C# 7 Programming with Visual Studio 2017 [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogvs.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/BEGINNING-C-7-Programming-with-Visual-Studio-2017.pdf"
+  },
+  {
+    "title": "Beginning ASP.NET 4.5.1 in CSharp and VB [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Beginning-ASPNET-4.5.1-in-C-and-VB.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-asp-net-4-5-1-in-csharp-and-vb-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com_.pdf"
+  },
+  {
+    "title": "C# Programming in easy steps [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogramming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-easy-steps-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/In.Easy.Steps.Cplusplus.Programming.in.easy.steps.5th.Edition.pdf"
+  }
+,
+  {
+    "title": "FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C# [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Intro-Csharp-Book-front-cover-big_en.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf"
+  },
+  {
+    "title": "Advanced C# programming Paul Kimmel [pdf]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/advanced-C-Sharp-programming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Mcgraw-Advanced-C-Sharp-Programming.pdf"
+  }
+,
+  {
+    "title": "Visual C# 2005 Demystified",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified-400x496.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/visual-c-2005-demystified/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified.pdf"
+  },
+  {
+    "title": "NHibernate in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nhibernate-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.pdf"
+  },
+  {
+    "title": "Design Patterns in C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Design-Patterns-in-C.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/design-patterns-in-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Design-Patterns-in-C.pdf"
+  },
+  {
+    "title": "Practical Artificial Intelligence",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-artificial-intelligence/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.pdf"
+  },
+  {
+    "title": "C# 7 Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Exploring Neural Networks with C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C.jpeg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-neural-networks-with-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C-.pdf"
+  },
+  {
+    "title": "C# Machine Learning Projects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpmachinelearning.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-machine-learning-projects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c-machine-learning-projects.pdf"
+  },
+  {
+    "title": "Beginning C# 7 Programming with Visual Studio 2017 [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogvs.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/BEGINNING-C-7-Programming-with-Visual-Studio-2017.pdf"
+  },
+  {
+    "title": "Beginning ASP.NET 4.5.1 in CSharp and VB [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Beginning-ASPNET-4.5.1-in-C-and-VB.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-asp-net-4-5-1-in-csharp-and-vb-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com_.pdf"
+  },
+  {
+    "title": "C# Programming in easy steps [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogramming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-easy-steps-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/In.Easy.Steps.Cplusplus.Programming.in.easy.steps.5th.Edition.pdf"
+  }
+,
+  {
+    "title": "FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C# [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Intro-Csharp-Book-front-cover-big_en.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf"
+  },
+  {
+    "title": "Advanced C# programming Paul Kimmel [pdf]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/advanced-C-Sharp-programming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Mcgraw-Advanced-C-Sharp-Programming.pdf"
+  }
+,
+  {
+    "title": "Visual C# 2005 Demystified",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified-400x496.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/visual-c-2005-demystified/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified.pdf"
+  },
+  {
+    "title": "NHibernate in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nhibernate-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.pdf"
+  },
+  {
+    "title": "Design Patterns in C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Design-Patterns-in-C.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/design-patterns-in-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Design-Patterns-in-C.pdf"
+  },
+  {
+    "title": "Practical Artificial Intelligence",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-artificial-intelligence/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.pdf"
+  },
+  {
+    "title": "C# 7 Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Exploring Neural Networks with C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C.jpeg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-neural-networks-with-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C-.pdf"
+  },
+  {
+    "title": "C# Machine Learning Projects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpmachinelearning.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-machine-learning-projects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c-machine-learning-projects.pdf"
+  },
+  {
+    "title": "Beginning C# 7 Programming with Visual Studio 2017 [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogvs.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/BEGINNING-C-7-Programming-with-Visual-Studio-2017.pdf"
+  },
+  {
+    "title": "Beginning ASP.NET 4.5.1 in CSharp and VB [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Beginning-ASPNET-4.5.1-in-C-and-VB.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-asp-net-4-5-1-in-csharp-and-vb-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com_.pdf"
+  },
+  {
+    "title": "C# Programming in easy steps [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogramming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-easy-steps-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/In.Easy.Steps.Cplusplus.Programming.in.easy.steps.5th.Edition.pdf"
+  }
+,
+  {
+    "title": "FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C# [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Intro-Csharp-Book-front-cover-big_en.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf"
+  },
+  {
+    "title": "Advanced C# programming Paul Kimmel [pdf]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/advanced-C-Sharp-programming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Mcgraw-Advanced-C-Sharp-Programming.pdf"
+  }
+,
+  {
+    "title": "Visual C# 2005 Demystified",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified-400x496.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/visual-c-2005-demystified/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified.pdf"
+  },
+  {
+    "title": "NHibernate in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nhibernate-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.pdf"
+  },
+  {
+    "title": "Design Patterns in C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Design-Patterns-in-C.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/design-patterns-in-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Design-Patterns-in-C.pdf"
+  },
+  {
+    "title": "Practical Artificial Intelligence",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-artificial-intelligence/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.pdf"
+  },
+  {
+    "title": "C# 7 Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Exploring Neural Networks with C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C.jpeg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-neural-networks-with-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C-.pdf"
+  },
+  {
+    "title": "C# Machine Learning Projects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpmachinelearning.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-machine-learning-projects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c-machine-learning-projects.pdf"
+  },
+  {
+    "title": "Beginning C# 7 Programming with Visual Studio 2017 [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogvs.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/BEGINNING-C-7-Programming-with-Visual-Studio-2017.pdf"
+  },
+  {
+    "title": "Beginning ASP.NET 4.5.1 in CSharp and VB [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Beginning-ASPNET-4.5.1-in-C-and-VB.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-asp-net-4-5-1-in-csharp-and-vb-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com_.pdf"
+  },
+  {
+    "title": "C# Programming in easy steps [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogramming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-easy-steps-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/In.Easy.Steps.Cplusplus.Programming.in.easy.steps.5th.Edition.pdf"
+  }
+,
+  {
+    "title": "FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C# [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Intro-Csharp-Book-front-cover-big_en.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf"
+  },
+  {
+    "title": "Advanced C# programming Paul Kimmel [pdf]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/advanced-C-Sharp-programming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Mcgraw-Advanced-C-Sharp-Programming.pdf"
+  }
+,
+  {
+    "title": "Visual C# 2005 Demystified",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified-400x496.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/visual-c-2005-demystified/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified.pdf"
+  },
+  {
+    "title": "NHibernate in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nhibernate-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.pdf"
+  },
+  {
+    "title": "Design Patterns in C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Design-Patterns-in-C.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/design-patterns-in-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Design-Patterns-in-C.pdf"
+  },
+  {
+    "title": "Practical Artificial Intelligence",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-artificial-intelligence/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.pdf"
+  },
+  {
+    "title": "C# 7 Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Exploring Neural Networks with C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C.jpeg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-neural-networks-with-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C-.pdf"
+  },
+  {
+    "title": "C# Machine Learning Projects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpmachinelearning.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-machine-learning-projects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c-machine-learning-projects.pdf"
+  },
+  {
+    "title": "Beginning C# 7 Programming with Visual Studio 2017 [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogvs.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/BEGINNING-C-7-Programming-with-Visual-Studio-2017.pdf"
+  },
+  {
+    "title": "Beginning ASP.NET 4.5.1 in CSharp and VB [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Beginning-ASPNET-4.5.1-in-C-and-VB.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-asp-net-4-5-1-in-csharp-and-vb-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com_.pdf"
+  },
+  {
+    "title": "C# Programming in easy steps [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogramming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-easy-steps-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/In.Easy.Steps.Cplusplus.Programming.in.easy.steps.5th.Edition.pdf"
+  }
+,
+  {
+    "title": "FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C# [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Intro-Csharp-Book-front-cover-big_en.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf"
+  },
+  {
+    "title": "Advanced C# programming Paul Kimmel [pdf]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/advanced-C-Sharp-programming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Mcgraw-Advanced-C-Sharp-Programming.pdf"
+  }
+,
+  {
+    "title": "Visual C# 2005 Demystified",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified-400x496.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/visual-c-2005-demystified/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified.pdf"
+  },
+  {
+    "title": "NHibernate in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nhibernate-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.pdf"
+  },
+  {
+    "title": "Design Patterns in C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Design-Patterns-in-C.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/design-patterns-in-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Design-Patterns-in-C.pdf"
+  },
+  {
+    "title": "Practical Artificial Intelligence",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-artificial-intelligence/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.pdf"
+  },
+  {
+    "title": "C# 7 Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Exploring Neural Networks with C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C.jpeg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-neural-networks-with-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C-.pdf"
+  },
+  {
+    "title": "C# Machine Learning Projects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpmachinelearning.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-machine-learning-projects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c-machine-learning-projects.pdf"
+  },
+  {
+    "title": "Beginning C# 7 Programming with Visual Studio 2017 [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogvs.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/BEGINNING-C-7-Programming-with-Visual-Studio-2017.pdf"
+  },
+  {
+    "title": "Beginning ASP.NET 4.5.1 in CSharp and VB [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Beginning-ASPNET-4.5.1-in-C-and-VB.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-asp-net-4-5-1-in-csharp-and-vb-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com_.pdf"
+  },
+  {
+    "title": "C# Programming in easy steps [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogramming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-easy-steps-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/In.Easy.Steps.Cplusplus.Programming.in.easy.steps.5th.Edition.pdf"
+  }
+,
+  {
+    "title": "FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C# [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Intro-Csharp-Book-front-cover-big_en.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf"
+  },
+  {
+    "title": "Advanced C# programming Paul Kimmel [pdf]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/advanced-C-Sharp-programming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Mcgraw-Advanced-C-Sharp-Programming.pdf"
+  }
+,
+  {
+    "title": "Visual C# 2005 Demystified",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified-400x496.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/visual-c-2005-demystified/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Visual-C-2005-Demystified.pdf"
+  },
+  {
+    "title": "NHibernate in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nhibernate-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/NHibernate-in-Action.pdf"
+  },
+  {
+    "title": "Design Patterns in C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Design-Patterns-in-C.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/design-patterns-in-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Design-Patterns-in-C.pdf"
+  },
+  {
+    "title": "Practical Artificial Intelligence",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-artificial-intelligence/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Practical-Artificial-Intelligence.pdf"
+  },
+  {
+    "title": "C# 7 Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-7-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/C-7-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Exploring Neural Networks with C#",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C.jpeg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-neural-networks-with-c/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Exploring-Neural-Networks-with-C-.pdf"
+  },
+  {
+    "title": "C# Machine Learning Projects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpmachinelearning.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-machine-learning-projects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c-machine-learning-projects.pdf"
+  },
+  {
+    "title": "Beginning C# 7 Programming with Visual Studio 2017 [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogvs.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c-7-programming-with-visual-studio-2017-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/BEGINNING-C-7-Programming-with-Visual-Studio-2017.pdf"
+  },
+  {
+    "title": "Beginning ASP.NET 4.5.1 in CSharp and VB [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Beginning-ASPNET-4.5.1-in-C-and-VB.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-asp-net-4-5-1-in-csharp-and-vb-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Beginning_ASP.net_4.5.1_in_Csharp_and_VB_Softgozar.com_.pdf"
+  },
+  {
+    "title": "C# Programming in easy steps [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/csharpprogramming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-easy-steps-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/In.Easy.Steps.Cplusplus.Programming.in.easy.steps.5th.Edition.pdf"
+  }
+,
+  {
+    "title": "FUNDAMENTALS OF COMPUTER PROGRAMMING WITH C# [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Intro-Csharp-Book-front-cover-big_en.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/fundamentals-of-computer-programming/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/Fundamentals-of-Computer-Programming-with-CSharp-Nakov-eBook-v2013.pdf"
+  },
+  {
+    "title": "Advanced C# programming Paul Kimmel [pdf]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/advanced-C-Sharp-programming.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/advanced-c-programming-paul-kimmel-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Mcgraw-Advanced-C-Sharp-Programming.pdf"
   }
 ,
   {

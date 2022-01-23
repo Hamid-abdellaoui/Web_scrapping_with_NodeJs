@@ -1,2 +1,1386 @@
 [
+
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run-Dennis-Hutten.pdf"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-NATS.pdf"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-Model.pdf"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.pdf"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.pdf"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Hands-on-lab-step-by-step-Enterprise-class-networking-in-Azure.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Cloud Computing Using Oracle Application Express.pdf"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/practice-cloud-system-administration-vol-2.pdf"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/google-cloud-platform-architects.pdf"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run-Dennis-Hutten.pdf"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-NATS.pdf"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-Model.pdf"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.pdf"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.pdf"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Hands-on-lab-step-by-step-Enterprise-class-networking-in-Azure.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Cloud Computing Using Oracle Application Express.pdf"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/practice-cloud-system-administration-vol-2.pdf"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/google-cloud-platform-architects.pdf"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run-Dennis-Hutten.pdf"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-NATS.pdf"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-Model.pdf"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.pdf"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.pdf"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Hands-on-lab-step-by-step-Enterprise-class-networking-in-Azure.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Cloud Computing Using Oracle Application Express.pdf"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/practice-cloud-system-administration-vol-2.pdf"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/google-cloud-platform-architects.pdf"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run-Dennis-Hutten.pdf"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-NATS.pdf"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-Model.pdf"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.pdf"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.pdf"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Hands-on-lab-step-by-step-Enterprise-class-networking-in-Azure.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Cloud Computing Using Oracle Application Express.pdf"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/practice-cloud-system-administration-vol-2.pdf"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/google-cloud-platform-architects.pdf"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run-Dennis-Hutten.pdf"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-NATS.pdf"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-Model.pdf"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.pdf"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.pdf"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Hands-on-lab-step-by-step-Enterprise-class-networking-in-Azure.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Cloud Computing Using Oracle Application Express.pdf"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/practice-cloud-system-administration-vol-2.pdf"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/google-cloud-platform-architects.pdf"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run-Dennis-Hutten.pdf"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-NATS.pdf"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-Model.pdf"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.pdf"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.pdf"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Hands-on-lab-step-by-step-Enterprise-class-networking-in-Azure.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Cloud Computing Using Oracle Application Express.pdf"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/practice-cloud-system-administration-vol-2.pdf"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/google-cloud-platform-architects.pdf"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run-Dennis-Hutten.pdf"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-NATS.pdf"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-Model.pdf"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.pdf"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.pdf"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Hands-on-lab-step-by-step-Enterprise-class-networking-in-Azure.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Cloud Computing Using Oracle Application Express.pdf"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/practice-cloud-system-administration-vol-2.pdf"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/google-cloud-platform-architects.pdf"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run-Dennis-Hutten.pdf"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-NATS.pdf"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-Model.pdf"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.pdf"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.pdf"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Hands-on-lab-step-by-step-Enterprise-class-networking-in-Azure.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Cloud Computing Using Oracle Application Express.pdf"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/practice-cloud-system-administration-vol-2.pdf"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/google-cloud-platform-architects.pdf"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run-Dennis-Hutten.pdf"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-NATS.pdf"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-Model.pdf"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.pdf"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.pdf"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Hands-on-lab-step-by-step-Enterprise-class-networking-in-Azure.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Cloud Computing Using Oracle Application Express.pdf"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/practice-cloud-system-administration-vol-2.pdf"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/google-cloud-platform-architects.pdf"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
+,
+  {
+    "title": "Docker: Docker Tutorial for Beginners Build Ship and Run",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-docker-tutorial-for-beginners-build-ship-and-run/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Docker-Docker-Tutorial-for-Beginners-Build-Ship-and-Run-Dennis-Hutten.pdf"
+  },
+  {
+    "title": "Practical NATS",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Practical-NATS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-nats/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-NATS.pdf"
+  },
+  {
+    "title": "Azure Automation Using the ARM Model",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-MODEL.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/azure-automation-using-the-arm-model/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Azure-Automation-Using-the-ARM-Model.pdf"
+  },
+  {
+    "title": "Oracle Big Data Handbook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-big-data-handbook/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-Big-Data-Handbook.pdf"
+  },
+  {
+    "title": "Introducing InnoDB Cluster",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/introducing-innodb-cluster/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Introducing-InnoDB-Cluster.pdf"
+  },
+  {
+    "title": "Beginning Office 365 Collaboration Apps",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-office-365-collaboration-apps/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-Office-365-Collaboration-Apps.pdf"
+  },
+  {
+    "title": "Microsoft Cloud Workshop [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Microsoft-Cloud-Workshop.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-cloud-workshop-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Hands-on-lab-step-by-step-Enterprise-class-networking-in-Azure.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cloudcomp.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Cloud Computing Using Oracle Application Express.pdf"
+  },
+  {
+    "title": "The Practice of Cloud System Administration [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/cloudsys.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-practice-of-cloud-system-administration-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/practice-cloud-system-administration-vol-2.pdf"
+  },
+  {
+    "title": "Google Cloud Platform for Architects [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/googlecloud.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/google-cloud-platform-architects.pdf"
+  }
+,
+  {
+    "title": "The Cloud DBA-Oracle",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle-329x500.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-cloud-dba-oracle/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/The-Cloud-DBA-Oracle.pdf"
+  },
+  {
+    "title": "Chef Essentials",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/chef-essentials/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Chef-Essentials.pdf"
+  },
+  {
+    "title": "Learning Nagios, Third Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learning-nagios-third-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Learning-Nagios-Third-Edition.pdf"
+  },
+  {
+    "title": "Cloud Computing Using Oracle Application Express",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-computing-using-oracle-application-express/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Cloud-Computing-Using-Oracle-Application-Express.pdf"
+  },
+  {
+    "title": "Website Hosting and Migration with Amazon Web Services",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/website-hosting-and-migration-with-amazon-web-services/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Website-Hosting-and-Migration-with-Amazon-Web-Services.pdf"
+  },
+  {
+    "title": "Beginning PostgreSQL on the Cloud",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-postgresql-on-the-cloud/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-PostgreSQL-on-the-Cloud.pdf"
+  },
+  {
+    "title": "Complete Guide to Open Source Big Data Stack",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/complete-guide-to-open-source-big-data-stack/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Complete-Guide-to-Open-Source-Big-Data-Stack.pdf"
+  },
+  {
+    "title": "The Definitive Guide to CentOS",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-centos/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/The-Definitive-Guide-to-CentOS.pdf"
+  },
+  {
+    "title": "Cloud Data Design, Orchestration, and Management Using Microsoft Azure",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cloud-data-design-orchestration-and-management-using-microsoft-azure/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Cloud-Data-Design-Orchestration-and-Management-Using-Microsoft-Azure.pdf"
+  },
+  {
+    "title": "Exploring Cloud Computing",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Exploring-Cloud-Computing.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-cloud-computing/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Exploring_Cloud_Computing.pdf"
+  }
 ]

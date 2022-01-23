@@ -3,38 +3,32 @@
   {
     "title": "Python Unit Test Automation",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Python-Unit-Test-Automation-330x500.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-unit-test-automation/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Python-Unit-Test-Automation.pdf"
+    "source": "https://www.programmer-books.com/python-unit-test-automation/"
   },
   {
     "title": "Mastering IPython 4.0",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Mastering-IPython-4-400x475.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/mastering-ipython-4-0/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Mastering-IPython-4.0.pdf"
+    "source": "https://www.programmer-books.com/mastering-ipython-4-0/"
   },
   {
     "title": "Django Project Blueprints",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Django-Project-Blueprints-400x493.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/django-project-blueprints/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Django-Project-Blueprints.pdf"
+    "source": "https://www.programmer-books.com/django-project-blueprints/"
   },
   {
     "title": "QGIS Python Programming Cookbook",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/QGIS-Python-Programming-Cookbook-400x493.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/qgis-python-programming-cookbook/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/QGIS-Python-Programming-Cookbook.pdf"
+    "source": "https://www.programmer-books.com/qgis-python-programming-cookbook/"
   },
   {
     "title": "Pro Python Best Practices",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Pro-Python-Best-Practices.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/pro-python-best-practices/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Pro-Python-Best-Practices.pdf"
+    "source": "https://www.programmer-books.com/pro-python-best-practices/"
   },
   {
     "title": "Wxpython in Action",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Wxpython-in-Action-400x493.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/wxpython-in-action/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Wxpython-in-Action.pdf"
+    "source": "https://www.programmer-books.com/wxpython-in-action/"
   },
   {
     "title": "Python Machine Learning Blueprints",
@@ -45,8 +39,7 @@
   {
     "title": "Beginning Django",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-Django.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-django/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-Django.pdf"
+    "source": "https://www.programmer-books.com/beginning-django/"
   },
   {
     "title": "Python Machine Learning Case Studies",
@@ -56,14 +49,14 @@
   {
     "title": "Python for Data Analysis, 2nd Edition",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-for-data-analysis-2nd-edition/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Python-for-Data-Analysis-2nd-Edition.pdf"
+    "source": "https://www.programmer-books.com/python-for-data-analysis-2nd-edition/"
   }
 ,
   {
     "title": "Programming with MicroPython",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Programming-with-MicroPython.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-with-micropython/"
+    "source": "https://www.programmer-books.com/programming-with-micropython/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Programming-with-MicroPython.pdf"
   },
   {
     "title": "Dive into Python 3",
@@ -73,12 +66,14 @@
   {
     "title": "Practical Python AI Projects",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Practical-Python-AI-Projects.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-python-ai-projects/"
+    "source": "https://www.programmer-books.com/practical-python-ai-projects/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Practical-Python-AI-Projects.pdf"
   },
   {
     "title": "Python Graphics",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Python-Graphics.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-graphics/"
+    "source": "https://www.programmer-books.com/python-graphics/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Python-Graphics.pdf"
   },
   {
     "title": "Data Science Fundamentals for Python and MongoDB",
@@ -93,7 +88,8 @@
   {
     "title": "Building Mapping Applications with QGIS",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Building-Mapping-Applications-with-QGIS-400x493.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/building-mapping-applications-with-qgis/"
+    "source": "https://www.programmer-books.com/building-mapping-applications-with-qgis/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Building-Mapping-Applications-with-QGIS.pdf"
   },
   {
     "title": "Practical Web Scraping for Data Science",
@@ -114,50 +110,42 @@
   {
     "title": "Python Descriptors, 2nd Edition",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Python-Descriptors.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-descriptors-2nd-edition/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Python-Descriptors-2nd-Edition.pdf"
+    "source": "https://www.programmer-books.com/python-descriptors-2nd-edition/"
   },
   {
     "title": "Personal Finance with Python",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Personal-Finance-with-Python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/personal-finance-with-python/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Personal-Finance-with-Python.pdf"
+    "source": "https://www.programmer-books.com/personal-finance-with-python/"
   },
   {
     "title": "Python For Dummies",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Python-For-Dummies.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-for-dummies/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Python-For-Dummies.pdf"
+    "source": "https://www.programmer-books.com/python-for-dummies/"
   },
   {
     "title": "Functional Programming For Dummies",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Functional-Programming-For-Dummies.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/functional-programming-for-dummies/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Functional-Programming-For-Dummies.pdf"
+    "source": "https://www.programmer-books.com/functional-programming-for-dummies/"
   },
   {
     "title": "Python Continuous Integration and Delivery",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Python-Continuous-Integration-and-Delivery.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-continuous-integration-and-delivery/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Python-Continuous-Integration-and-Delivery.pdf"
+    "source": "https://www.programmer-books.com/python-continuous-integration-and-delivery/"
   },
   {
     "title": "Numerical Python, 2nd Edition",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Numerical-Python-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/numerical-python-2nd-edition/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Numerical-Python-2nd-Edition.pdf"
+    "source": "https://www.programmer-books.com/numerical-python-2nd-edition/"
   },
   {
     "title": "The Quick Python Book, 3rd Edition",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/The-Quick-Python-Book-3rd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/the-quick-python-book-3rd-edition/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/The-Quick-Python-Book-3rd-Edition.pdf"
+    "source": "https://www.programmer-books.com/the-quick-python-book-3rd-edition/"
   },
   {
     "title": "Deep Learning with Python",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Deep-Learning-with-Python-400x500.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/deep-learning-with-python/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Deep-Learning-with-Python.pdf"
+    "source": "https://www.programmer-books.com/deep-learning-with-python/"
   },
   {
     "title": "Python for Data Mining Quick Syntax Reference",
@@ -229,1020 +217,6 @@
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Python-Descriptors-2nd-Edition.jpg?resize=100%2C70&ssl=1",
     "source": "https://www.programmer-books.com/python-descriptors-2nd-edition-pdf/",
     "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Python-Descriptors-2nd-Edition.pdf"
-  }
-,
-  {
-    "title": "Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Python-Web-Scraping-Cookbook.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-web-scraping-cookbook/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Python.Web_.Scraping.Cookbook.Scraping.8.pdf"
-  },
-  {
-    "title": "Practical Docker with Python",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Practical-Docker-with-Python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-docker-with-python/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Practical.Docker.Python.Release.Distribute.1.pdf"
-  },
-  {
-    "title": "Best 3 Python books For Programmers [2018]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Best-3-Python-books-For-Programmers.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/best-3-python-books-for-programmers-2018/"
-  },
-  {
-    "title": "Instant Pygame for Python Game Development How-to [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pygame.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/instant-pygame-for-python-game-development-how-to-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Instant Pygame for Python Game Development How-to.pdf"
-  },
-  {
-    "title": "Raspberry Pi CookBook For Python Programmers [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/RASPBERRY-PI-USING-PYTHON-COOKBOOK.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/raspberry-pi-cookbook-for-python-programmers-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Raspberry-Pi-Cookbook-for-Python-Programmers.pdf"
-  },
-  {
-    "title": "Machine Learning In Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/machine-learning-in-python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/machine-learning-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Machine-learning-in-python.pdf"
-  },
-  {
-    "title": "Python Testing Cookbook, 2nd Edition [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pythontesting.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-testing-cookbook-2nd-edition-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Python Testing Cookbook_ Easy s - Greg L. Turnquist.pdf"
-  },
-  {
-    "title": "Django Book: Web framework for Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/django-book-web-framework-for-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.pdf"
-  },
-  {
-    "title": "Hadoop with Python [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/hadoop.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/hadoop-with-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/hadoop_with_python.pdf"
-  },
-  {
-    "title": "Python Projects [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/68555586eee1161.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-projects-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_language_Projects.pdf"
-  }
-,
-  {
-    "title": "Learning Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learning-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/LearningPython.pdf"
-  },
-  {
-    "title": "Python Game Programming By Example [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1532OS_4505_-Python-Game-Programming-By-Example.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-game-programming-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_Game_Programming.pdf"
-  },
-  {
-    "title": "How to Make Mistakes in Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/ca1457e9dca1eed596d785a6d41444341514141.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/how-to-make-mistakes-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/how_to_make_mistakesinpython.pdf"
-  },
-  {
-    "title": "20 Python Libraries You Aren’t Using (But Should) [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/360h.jpeg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/20-python-libraries/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/pytholibrariesd.pdf"
-  },
-  {
-    "title": "Python Practice [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1qkqCEw8oEMHYZDkpLcWSew.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-practice-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/python_practice_book.pdf"
-  },
-  {
-    "title": "A Whirlwind Tour of Python [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1-896b2a5120.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/a-whirlwind-tour-of-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/whirlwind_tour_of_python.pdf"
-  },
-  {
-    "title": "Programming with Python 2017 [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-with-python-2017-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.pdf"
-  },
-  {
-    "title": "Complete Guide For Python Programming – Quick & Easy Guide To Learn Python – 1st Edition (2015) [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/complete-guide-for-python-programming/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).pdf"
-  },
-  {
-    "title": "Beginning Programming with Python For Dummies, 2nd Edition [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Beginning-Programming-with-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-programming-with-python/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Beginning Programming with Python.pdf"
-  }
-,
-  {
-    "title": "Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Python-Web-Scraping-Cookbook.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-web-scraping-cookbook/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Python.Web_.Scraping.Cookbook.Scraping.8.pdf"
-  },
-  {
-    "title": "Practical Docker with Python",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Practical-Docker-with-Python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-docker-with-python/"
-  },
-  {
-    "title": "Best 3 Python books For Programmers [2018]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Best-3-Python-books-For-Programmers.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/best-3-python-books-for-programmers-2018/"
-  },
-  {
-    "title": "Instant Pygame for Python Game Development How-to [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pygame.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/instant-pygame-for-python-game-development-how-to-pdf/"
-  },
-  {
-    "title": "Raspberry Pi CookBook For Python Programmers [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/RASPBERRY-PI-USING-PYTHON-COOKBOOK.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/raspberry-pi-cookbook-for-python-programmers-pdf/"
-  },
-  {
-    "title": "Machine Learning In Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/machine-learning-in-python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/machine-learning-in-python-pdf/"
-  },
-  {
-    "title": "Python Testing Cookbook, 2nd Edition [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pythontesting.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-testing-cookbook-2nd-edition-pdf/"
-  },
-  {
-    "title": "Django Book: Web framework for Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/django-book-web-framework-for-python-pdf/"
-  },
-  {
-    "title": "Hadoop with Python [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/hadoop.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/hadoop-with-python-pdf/"
-  },
-  {
-    "title": "Python Projects [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/68555586eee1161.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-projects-pdf/"
-  }
-,
-  {
-    "title": "Learning Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learning-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/LearningPython.pdf"
-  },
-  {
-    "title": "Python Game Programming By Example [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1532OS_4505_-Python-Game-Programming-By-Example.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-game-programming-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_Game_Programming.pdf"
-  },
-  {
-    "title": "How to Make Mistakes in Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/ca1457e9dca1eed596d785a6d41444341514141.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/how-to-make-mistakes-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/how_to_make_mistakesinpython.pdf"
-  },
-  {
-    "title": "20 Python Libraries You Aren’t Using (But Should) [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/360h.jpeg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/20-python-libraries/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/pytholibrariesd.pdf"
-  },
-  {
-    "title": "Python Practice [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1qkqCEw8oEMHYZDkpLcWSew.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-practice-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/python_practice_book.pdf"
-  },
-  {
-    "title": "A Whirlwind Tour of Python [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1-896b2a5120.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/a-whirlwind-tour-of-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/whirlwind_tour_of_python.pdf"
-  },
-  {
-    "title": "Programming with Python 2017 [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-with-python-2017-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.pdf"
-  },
-  {
-    "title": "Complete Guide For Python Programming – Quick & Easy Guide To Learn Python – 1st Edition (2015) [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/complete-guide-for-python-programming/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).pdf"
-  },
-  {
-    "title": "Beginning Programming with Python For Dummies, 2nd Edition [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Beginning-Programming-with-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-programming-with-python/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Beginning Programming with Python.pdf"
-  }
-,
-  {
-    "title": "Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Python-Web-Scraping-Cookbook.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-web-scraping-cookbook/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Python.Web_.Scraping.Cookbook.Scraping.8.pdf"
-  },
-  {
-    "title": "Practical Docker with Python",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Practical-Docker-with-Python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-docker-with-python/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Practical.Docker.Python.Release.Distribute.1.pdf"
-  },
-  {
-    "title": "Best 3 Python books For Programmers [2018]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Best-3-Python-books-For-Programmers.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/best-3-python-books-for-programmers-2018/"
-  },
-  {
-    "title": "Instant Pygame for Python Game Development How-to [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pygame.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/instant-pygame-for-python-game-development-how-to-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Instant Pygame for Python Game Development How-to.pdf"
-  },
-  {
-    "title": "Raspberry Pi CookBook For Python Programmers [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/RASPBERRY-PI-USING-PYTHON-COOKBOOK.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/raspberry-pi-cookbook-for-python-programmers-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Raspberry-Pi-Cookbook-for-Python-Programmers.pdf"
-  },
-  {
-    "title": "Machine Learning In Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/machine-learning-in-python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/machine-learning-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Machine-learning-in-python.pdf"
-  },
-  {
-    "title": "Python Testing Cookbook, 2nd Edition [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pythontesting.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-testing-cookbook-2nd-edition-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Python Testing Cookbook_ Easy s - Greg L. Turnquist.pdf"
-  },
-  {
-    "title": "Django Book: Web framework for Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/django-book-web-framework-for-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.pdf"
-  },
-  {
-    "title": "Hadoop with Python [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/hadoop.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/hadoop-with-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/hadoop_with_python.pdf"
-  },
-  {
-    "title": "Python Projects [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/68555586eee1161.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-projects-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_language_Projects.pdf"
-  }
-,
-  {
-    "title": "Learning Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learning-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/LearningPython.pdf"
-  },
-  {
-    "title": "Python Game Programming By Example [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1532OS_4505_-Python-Game-Programming-By-Example.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-game-programming-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_Game_Programming.pdf"
-  },
-  {
-    "title": "How to Make Mistakes in Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/ca1457e9dca1eed596d785a6d41444341514141.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/how-to-make-mistakes-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/how_to_make_mistakesinpython.pdf"
-  },
-  {
-    "title": "20 Python Libraries You Aren’t Using (But Should) [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/360h.jpeg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/20-python-libraries/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/pytholibrariesd.pdf"
-  },
-  {
-    "title": "Python Practice [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1qkqCEw8oEMHYZDkpLcWSew.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-practice-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/python_practice_book.pdf"
-  },
-  {
-    "title": "A Whirlwind Tour of Python [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1-896b2a5120.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/a-whirlwind-tour-of-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/whirlwind_tour_of_python.pdf"
-  },
-  {
-    "title": "Programming with Python 2017 [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-with-python-2017-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.pdf"
-  },
-  {
-    "title": "Complete Guide For Python Programming – Quick & Easy Guide To Learn Python – 1st Edition (2015) [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/complete-guide-for-python-programming/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).pdf"
-  },
-  {
-    "title": "Beginning Programming with Python For Dummies, 2nd Edition [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Beginning-Programming-with-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-programming-with-python/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Beginning Programming with Python.pdf"
-  }
-,
-  {
-    "title": "Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Python-Web-Scraping-Cookbook.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-web-scraping-cookbook/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Python.Web_.Scraping.Cookbook.Scraping.8.pdf"
-  },
-  {
-    "title": "Practical Docker with Python",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Practical-Docker-with-Python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-docker-with-python/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Practical.Docker.Python.Release.Distribute.1.pdf"
-  },
-  {
-    "title": "Best 3 Python books For Programmers [2018]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Best-3-Python-books-For-Programmers.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/best-3-python-books-for-programmers-2018/"
-  },
-  {
-    "title": "Instant Pygame for Python Game Development How-to [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pygame.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/instant-pygame-for-python-game-development-how-to-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Instant Pygame for Python Game Development How-to.pdf"
-  },
-  {
-    "title": "Raspberry Pi CookBook For Python Programmers [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/RASPBERRY-PI-USING-PYTHON-COOKBOOK.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/raspberry-pi-cookbook-for-python-programmers-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Raspberry-Pi-Cookbook-for-Python-Programmers.pdf"
-  },
-  {
-    "title": "Machine Learning In Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/machine-learning-in-python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/machine-learning-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Machine-learning-in-python.pdf"
-  },
-  {
-    "title": "Python Testing Cookbook, 2nd Edition [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pythontesting.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-testing-cookbook-2nd-edition-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Python Testing Cookbook_ Easy s - Greg L. Turnquist.pdf"
-  },
-  {
-    "title": "Django Book: Web framework for Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/django-book-web-framework-for-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.pdf"
-  },
-  {
-    "title": "Hadoop with Python [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/hadoop.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/hadoop-with-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/hadoop_with_python.pdf"
-  },
-  {
-    "title": "Python Projects [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/68555586eee1161.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-projects-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_language_Projects.pdf"
-  }
-,
-  {
-    "title": "Learning Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learning-python-pdf/"
-  },
-  {
-    "title": "Python Game Programming By Example [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1532OS_4505_-Python-Game-Programming-By-Example.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-game-programming-by-example-pdf/"
-  },
-  {
-    "title": "How to Make Mistakes in Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/ca1457e9dca1eed596d785a6d41444341514141.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/how-to-make-mistakes-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/how_to_make_mistakesinpython.pdf"
-  },
-  {
-    "title": "20 Python Libraries You Aren’t Using (But Should) [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/360h.jpeg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/20-python-libraries/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/pytholibrariesd.pdf"
-  },
-  {
-    "title": "Python Practice [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1qkqCEw8oEMHYZDkpLcWSew.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-practice-pdf/"
-  },
-  {
-    "title": "A Whirlwind Tour of Python [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1-896b2a5120.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/a-whirlwind-tour-of-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/whirlwind_tour_of_python.pdf"
-  },
-  {
-    "title": "Programming with Python 2017 [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-with-python-2017-pdf/"
-  },
-  {
-    "title": "Complete Guide For Python Programming – Quick & Easy Guide To Learn Python – 1st Edition (2015) [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/complete-guide-for-python-programming/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).pdf"
-  },
-  {
-    "title": "Beginning Programming with Python For Dummies, 2nd Edition [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Beginning-Programming-with-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-programming-with-python/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Beginning Programming with Python.pdf"
-  }
-,
-  {
-    "title": "Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Python-Web-Scraping-Cookbook.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-web-scraping-cookbook/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Python.Web_.Scraping.Cookbook.Scraping.8.pdf"
-  },
-  {
-    "title": "Practical Docker with Python",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Practical-Docker-with-Python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-docker-with-python/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Practical.Docker.Python.Release.Distribute.1.pdf"
-  },
-  {
-    "title": "Best 3 Python books For Programmers [2018]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Best-3-Python-books-For-Programmers.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/best-3-python-books-for-programmers-2018/"
-  },
-  {
-    "title": "Instant Pygame for Python Game Development How-to [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pygame.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/instant-pygame-for-python-game-development-how-to-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Instant Pygame for Python Game Development How-to.pdf"
-  },
-  {
-    "title": "Raspberry Pi CookBook For Python Programmers [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/RASPBERRY-PI-USING-PYTHON-COOKBOOK.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/raspberry-pi-cookbook-for-python-programmers-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Raspberry-Pi-Cookbook-for-Python-Programmers.pdf"
-  },
-  {
-    "title": "Machine Learning In Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/machine-learning-in-python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/machine-learning-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Machine-learning-in-python.pdf"
-  },
-  {
-    "title": "Python Testing Cookbook, 2nd Edition [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pythontesting.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-testing-cookbook-2nd-edition-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Python Testing Cookbook_ Easy s - Greg L. Turnquist.pdf"
-  },
-  {
-    "title": "Django Book: Web framework for Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/django-book-web-framework-for-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.pdf"
-  },
-  {
-    "title": "Hadoop with Python [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/hadoop.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/hadoop-with-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/hadoop_with_python.pdf"
-  },
-  {
-    "title": "Python Projects [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/68555586eee1161.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-projects-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_language_Projects.pdf"
-  }
-,
-  {
-    "title": "Learning Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learning-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/LearningPython.pdf"
-  },
-  {
-    "title": "Python Game Programming By Example [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1532OS_4505_-Python-Game-Programming-By-Example.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-game-programming-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_Game_Programming.pdf"
-  },
-  {
-    "title": "How to Make Mistakes in Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/ca1457e9dca1eed596d785a6d41444341514141.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/how-to-make-mistakes-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/how_to_make_mistakesinpython.pdf"
-  },
-  {
-    "title": "20 Python Libraries You Aren’t Using (But Should) [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/360h.jpeg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/20-python-libraries/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/pytholibrariesd.pdf"
-  },
-  {
-    "title": "Python Practice [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1qkqCEw8oEMHYZDkpLcWSew.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-practice-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/python_practice_book.pdf"
-  },
-  {
-    "title": "A Whirlwind Tour of Python [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1-896b2a5120.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/a-whirlwind-tour-of-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/whirlwind_tour_of_python.pdf"
-  },
-  {
-    "title": "Programming with Python 2017 [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-with-python-2017-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.pdf"
-  },
-  {
-    "title": "Complete Guide For Python Programming – Quick & Easy Guide To Learn Python – 1st Edition (2015) [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/complete-guide-for-python-programming/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).pdf"
-  },
-  {
-    "title": "Beginning Programming with Python For Dummies, 2nd Edition [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Beginning-Programming-with-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-programming-with-python/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Beginning Programming with Python.pdf"
-  }
-,
-  {
-    "title": "Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Python-Web-Scraping-Cookbook.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-web-scraping-cookbook/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Python.Web_.Scraping.Cookbook.Scraping.8.pdf"
-  },
-  {
-    "title": "Practical Docker with Python",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Practical-Docker-with-Python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-docker-with-python/"
-  },
-  {
-    "title": "Best 3 Python books For Programmers [2018]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Best-3-Python-books-For-Programmers.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/best-3-python-books-for-programmers-2018/"
-  },
-  {
-    "title": "Instant Pygame for Python Game Development How-to [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pygame.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/instant-pygame-for-python-game-development-how-to-pdf/"
-  },
-  {
-    "title": "Raspberry Pi CookBook For Python Programmers [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/RASPBERRY-PI-USING-PYTHON-COOKBOOK.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/raspberry-pi-cookbook-for-python-programmers-pdf/"
-  },
-  {
-    "title": "Machine Learning In Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/machine-learning-in-python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/machine-learning-in-python-pdf/"
-  },
-  {
-    "title": "Python Testing Cookbook, 2nd Edition [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pythontesting.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-testing-cookbook-2nd-edition-pdf/"
-  },
-  {
-    "title": "Django Book: Web framework for Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/django-book-web-framework-for-python-pdf/"
-  },
-  {
-    "title": "Hadoop with Python [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/hadoop.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/hadoop-with-python-pdf/"
-  },
-  {
-    "title": "Python Projects [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/68555586eee1161.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-projects-pdf/"
-  }
-,
-  {
-    "title": "Learning Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learning-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/LearningPython.pdf"
-  },
-  {
-    "title": "Python Game Programming By Example [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1532OS_4505_-Python-Game-Programming-By-Example.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-game-programming-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_Game_Programming.pdf"
-  },
-  {
-    "title": "How to Make Mistakes in Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/ca1457e9dca1eed596d785a6d41444341514141.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/how-to-make-mistakes-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/how_to_make_mistakesinpython.pdf"
-  },
-  {
-    "title": "20 Python Libraries You Aren’t Using (But Should) [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/360h.jpeg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/20-python-libraries/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/pytholibrariesd.pdf"
-  },
-  {
-    "title": "Python Practice [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1qkqCEw8oEMHYZDkpLcWSew.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-practice-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/python_practice_book.pdf"
-  },
-  {
-    "title": "A Whirlwind Tour of Python [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1-896b2a5120.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/a-whirlwind-tour-of-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/whirlwind_tour_of_python.pdf"
-  },
-  {
-    "title": "Programming with Python 2017 [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-with-python-2017-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.pdf"
-  },
-  {
-    "title": "Complete Guide For Python Programming – Quick & Easy Guide To Learn Python – 1st Edition (2015) [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/complete-guide-for-python-programming/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).pdf"
-  },
-  {
-    "title": "Beginning Programming with Python For Dummies, 2nd Edition [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Beginning-Programming-with-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-programming-with-python/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Beginning Programming with Python.pdf"
-  }
-,
-  {
-    "title": "Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Python-Web-Scraping-Cookbook.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-web-scraping-cookbook/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Python.Web_.Scraping.Cookbook.Scraping.8.pdf"
-  },
-  {
-    "title": "Practical Docker with Python",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Practical-Docker-with-Python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-docker-with-python/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Practical.Docker.Python.Release.Distribute.1.pdf"
-  },
-  {
-    "title": "Best 3 Python books For Programmers [2018]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Best-3-Python-books-For-Programmers.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/best-3-python-books-for-programmers-2018/"
-  },
-  {
-    "title": "Instant Pygame for Python Game Development How-to [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pygame.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/instant-pygame-for-python-game-development-how-to-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Instant Pygame for Python Game Development How-to.pdf"
-  },
-  {
-    "title": "Raspberry Pi CookBook For Python Programmers [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/RASPBERRY-PI-USING-PYTHON-COOKBOOK.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/raspberry-pi-cookbook-for-python-programmers-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Raspberry-Pi-Cookbook-for-Python-Programmers.pdf"
-  },
-  {
-    "title": "Machine Learning In Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/machine-learning-in-python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/machine-learning-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Machine-learning-in-python.pdf"
-  },
-  {
-    "title": "Python Testing Cookbook, 2nd Edition [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pythontesting.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-testing-cookbook-2nd-edition-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Python Testing Cookbook_ Easy s - Greg L. Turnquist.pdf"
-  },
-  {
-    "title": "Django Book: Web framework for Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/django-book-web-framework-for-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.pdf"
-  },
-  {
-    "title": "Hadoop with Python [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/hadoop.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/hadoop-with-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/hadoop_with_python.pdf"
-  },
-  {
-    "title": "Python Projects [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/68555586eee1161.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-projects-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_language_Projects.pdf"
-  }
-,
-  {
-    "title": "Learning Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learning-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/LearningPython.pdf"
-  },
-  {
-    "title": "Python Game Programming By Example [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1532OS_4505_-Python-Game-Programming-By-Example.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-game-programming-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_Game_Programming.pdf"
-  },
-  {
-    "title": "How to Make Mistakes in Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/ca1457e9dca1eed596d785a6d41444341514141.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/how-to-make-mistakes-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/how_to_make_mistakesinpython.pdf"
-  },
-  {
-    "title": "20 Python Libraries You Aren’t Using (But Should) [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/360h.jpeg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/20-python-libraries/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/pytholibrariesd.pdf"
-  },
-  {
-    "title": "Python Practice [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1qkqCEw8oEMHYZDkpLcWSew.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-practice-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/python_practice_book.pdf"
-  },
-  {
-    "title": "A Whirlwind Tour of Python [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1-896b2a5120.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/a-whirlwind-tour-of-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/whirlwind_tour_of_python.pdf"
-  },
-  {
-    "title": "Programming with Python 2017 [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-with-python-2017-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.pdf"
-  },
-  {
-    "title": "Complete Guide For Python Programming – Quick & Easy Guide To Learn Python – 1st Edition (2015) [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/complete-guide-for-python-programming/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).pdf"
-  },
-  {
-    "title": "Beginning Programming with Python For Dummies, 2nd Edition [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Beginning-Programming-with-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-programming-with-python/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Beginning Programming with Python.pdf"
-  }
-,
-  {
-    "title": "Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Python-Web-Scraping-Cookbook.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-web-scraping-cookbook/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Python.Web_.Scraping.Cookbook.Scraping.8.pdf"
-  },
-  {
-    "title": "Practical Docker with Python",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Practical-Docker-with-Python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-docker-with-python/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Practical.Docker.Python.Release.Distribute.1.pdf"
-  },
-  {
-    "title": "Best 3 Python books For Programmers [2018]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Best-3-Python-books-For-Programmers.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/best-3-python-books-for-programmers-2018/"
-  },
-  {
-    "title": "Instant Pygame for Python Game Development How-to [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pygame.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/instant-pygame-for-python-game-development-how-to-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Instant Pygame for Python Game Development How-to.pdf"
-  },
-  {
-    "title": "Raspberry Pi CookBook For Python Programmers [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/RASPBERRY-PI-USING-PYTHON-COOKBOOK.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/raspberry-pi-cookbook-for-python-programmers-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Raspberry-Pi-Cookbook-for-Python-Programmers.pdf"
-  },
-  {
-    "title": "Machine Learning In Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/machine-learning-in-python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/machine-learning-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Machine-learning-in-python.pdf"
-  },
-  {
-    "title": "Python Testing Cookbook, 2nd Edition [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pythontesting.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-testing-cookbook-2nd-edition-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Python Testing Cookbook_ Easy s - Greg L. Turnquist.pdf"
-  },
-  {
-    "title": "Django Book: Web framework for Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/django-book-web-framework-for-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.pdf"
-  },
-  {
-    "title": "Hadoop with Python [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/hadoop.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/hadoop-with-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/hadoop_with_python.pdf"
-  },
-  {
-    "title": "Python Projects [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/68555586eee1161.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-projects-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_language_Projects.pdf"
-  }
-,
-  {
-    "title": "Learning Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learning-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/LearningPython.pdf"
-  },
-  {
-    "title": "Python Game Programming By Example [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1532OS_4505_-Python-Game-Programming-By-Example.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-game-programming-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_Game_Programming.pdf"
-  },
-  {
-    "title": "How to Make Mistakes in Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/ca1457e9dca1eed596d785a6d41444341514141.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/how-to-make-mistakes-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/how_to_make_mistakesinpython.pdf"
-  },
-  {
-    "title": "20 Python Libraries You Aren’t Using (But Should) [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/360h.jpeg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/20-python-libraries/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/pytholibrariesd.pdf"
-  },
-  {
-    "title": "Python Practice [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1qkqCEw8oEMHYZDkpLcWSew.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-practice-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/python_practice_book.pdf"
-  },
-  {
-    "title": "A Whirlwind Tour of Python [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1-896b2a5120.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/a-whirlwind-tour-of-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/whirlwind_tour_of_python.pdf"
-  },
-  {
-    "title": "Programming with Python 2017 [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-with-python-2017-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.pdf"
-  },
-  {
-    "title": "Complete Guide For Python Programming – Quick & Easy Guide To Learn Python – 1st Edition (2015) [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/complete-guide-for-python-programming/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).pdf"
-  },
-  {
-    "title": "Beginning Programming with Python For Dummies, 2nd Edition [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Beginning-Programming-with-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-programming-with-python/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Beginning Programming with Python.pdf"
-  }
-,
-  {
-    "title": "Python Web Scraping Cookbook: Over 90 proven recipes to get you scraping with Python, micro services, Docker and AWS",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Python-Web-Scraping-Cookbook.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-web-scraping-cookbook/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Python.Web_.Scraping.Cookbook.Scraping.8.pdf"
-  },
-  {
-    "title": "Practical Docker with Python",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Practical-Docker-with-Python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-docker-with-python/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Practical.Docker.Python.Release.Distribute.1.pdf"
-  },
-  {
-    "title": "Best 3 Python books For Programmers [2018]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Best-3-Python-books-For-Programmers.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/best-3-python-books-for-programmers-2018/"
-  },
-  {
-    "title": "Instant Pygame for Python Game Development How-to [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pygame.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/instant-pygame-for-python-game-development-how-to-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Instant Pygame for Python Game Development How-to.pdf"
-  },
-  {
-    "title": "Raspberry Pi CookBook For Python Programmers [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/RASPBERRY-PI-USING-PYTHON-COOKBOOK.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/raspberry-pi-cookbook-for-python-programmers-pdf/"
-  },
-  {
-    "title": "Machine Learning In Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/machine-learning-in-python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/machine-learning-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Machine-learning-in-python.pdf"
-  },
-  {
-    "title": "Python Testing Cookbook, 2nd Edition [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/pythontesting.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-testing-cookbook-2nd-edition-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Python Testing Cookbook_ Easy s - Greg L. Turnquist.pdf"
-  },
-  {
-    "title": "Django Book: Web framework for Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/django-book-web-framework-for-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Django-Book-Web-framework-for-Python.pdf"
-  },
-  {
-    "title": "Hadoop with Python [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/hadoop.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/hadoop-with-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/hadoop_with_python.pdf"
-  },
-  {
-    "title": "Python Projects [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/68555586eee1161.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-projects-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_language_Projects.pdf"
-  }
-,
-  {
-    "title": "Learning Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/python.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learning-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/LearningPython.pdf"
-  },
-  {
-    "title": "Python Game Programming By Example [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1532OS_4505_-Python-Game-Programming-By-Example.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-game-programming-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/Python_Game_Programming.pdf"
-  },
-  {
-    "title": "How to Make Mistakes in Python [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/ca1457e9dca1eed596d785a6d41444341514141.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/how-to-make-mistakes-in-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/how_to_make_mistakesinpython.pdf"
-  },
-  {
-    "title": "20 Python Libraries You Aren’t Using (But Should) [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/360h.jpeg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/20-python-libraries/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/pytholibrariesd.pdf"
-  },
-  {
-    "title": "Python Practice [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1qkqCEw8oEMHYZDkpLcWSew.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/python-practice-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/python_practice_book.pdf"
-  },
-  {
-    "title": "A Whirlwind Tour of Python [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/1-896b2a5120.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/a-whirlwind-tour-of-python-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/whirlwind_tour_of_python.pdf"
-  },
-  {
-    "title": "Programming with Python 2017 [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-with-python-2017-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Programming with Python 2017.pdf"
-  },
-  {
-    "title": "Complete Guide For Python Programming – Quick & Easy Guide To Learn Python – 1st Edition (2015) [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/complete-guide-for-python-programming/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Complete Guide For Python Programming (2015).pdf"
-  },
-  {
-    "title": "Beginning Programming with Python For Dummies, 2nd Edition [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/Beginning-Programming-with-Python.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-programming-with-python/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/Beginning Programming with Python.pdf"
   }
 ,
   {

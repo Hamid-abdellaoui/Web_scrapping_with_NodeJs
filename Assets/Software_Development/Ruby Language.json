@@ -8,12 +8,14 @@
   {
     "title": "Practical Ruby Gems",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Practical-Ruby-Gems.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/practical-ruby-gems/"
+    "source": "https://www.programmer-books.com/practical-ruby-gems/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Practical-Ruby-Gems.pdf"
   },
   {
     "title": "Beginning Ruby On Rails E-Commerce",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Beginning-Ruby-On-Rails-E-Commerce-400x494.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-ruby-on-rails-e-commerce/"
+    "source": "https://www.programmer-books.com/beginning-ruby-on-rails-e-commerce/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Beginning-Ruby-On-Rails-E-Commerce.pdf"
   },
   {
     "title": "Learn Rails 5.2",
@@ -23,7 +25,8 @@
   {
     "title": "The Well-Grounded Rubyist, 2nd Edition",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/The-Well-Grounded-Rubyist-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/the-well-grounded-rubyist-2nd-edition/"
+    "source": "https://www.programmer-books.com/the-well-grounded-rubyist-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/The-Well-Grounded-Rubyist-2nd-Edition.pdf"
   },
   {
     "title": "Ruby Phrasebook",
@@ -59,7 +62,6 @@
   {
     "title": "Ruby Data Structures and Algorithms",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/ruby-data-structures-and-algorithms.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/ruby-data-structures-and-algorithms/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/ruby-data-structures-and-algorithms.pdf"
+    "source": "https://www.programmer-books.com/ruby-data-structures-and-algorithms/"
   }
 ]

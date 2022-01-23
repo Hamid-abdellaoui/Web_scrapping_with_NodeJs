@@ -18,8 +18,7 @@
   {
     "title": "R Projects For Dummies",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/R-Projects-For-Dummies.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/r-projects-for-dummies/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/R-Projects-For-Dummies.pdf"
+    "source": "https://www.programmer-books.com/r-projects-for-dummies/"
   },
   {
     "title": "Business Case Analysis with R",
@@ -50,46 +49,5 @@
     "title": "Web Application Development with R Using Shiny",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Web-Application-Development-with-R-Using-Shiny.jpg?resize=100%2C70&ssl=1",
     "source": "https://www.programmer-books.com/web-application-development-with-r-using-shiny/"
-  }
-,
-  {
-    "title": "Learn Business Analytics in Six Steps Using SAS and R",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Learn-Business-Analytics-in-Six-Steps-Using-SAS-and-R.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learn-business-analytics/"
-  },
-  {
-    "title": "Domain-Specific Languages in R",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Domain-Specific-Languages-in-R.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/domain-specific-languages-in-r/"
-  },
-  {
-    "title": "Pro Data Visualization using R and JavaScript [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Pro-Data-Visualization-using-R-and-JavaScript.jpeg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/pro-data-visualization-using-r-and-javascript-pdf/"
-  },
-  {
-    "title": "Using R and R Studio for Data Management | Statistical Analysis and Graphics 2nd Edition [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Using-Rand.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/using-r-and-r-studio-for-data-management-statistical-analysis-and-graphics-2nd-edition-pdf/"
-  },
-  {
-    "title": "R Programming for Data Science [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/R-Programming-for-Data-Science.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/r-programming-for-data-science-pdf/"
-  },
-  {
-    "title": "A Handbook of Statistical Analyses Using R [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/A-Handbook-of-Statistical-Analyses-Using-R.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/a-handbook-of-statistical-analyses-using-r-pdf/"
-  },
-  {
-    "title": "Learning R [PDF]",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Learning-R.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/learning-r-pdf/"
-  },
-  {
-    "title": "Probability, Decisions and Games [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/Probability-Decisions-and-Games.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/probability-decisions-and-games-pdf/"
   }
 ]

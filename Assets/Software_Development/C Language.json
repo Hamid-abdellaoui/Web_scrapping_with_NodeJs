@@ -60,14 +60,12 @@
   {
     "title": "C++17 By Example [PDF]",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/C17.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c17-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c17-example.pdf"
+    "source": "https://www.programmer-books.com/c17-by-example-pdf/"
   },
   {
     "title": "C Programming in Linux",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/c-programming-in-linux.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c-programming-in-linux/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/c-programming-in-linux.pdf"
+    "source": "https://www.programmer-books.com/c-programming-in-linux/"
   },
   {
     "title": "Cryptography in C and C++, Second Edition By Michael Welschenbach [pdf]",
@@ -77,8 +75,7 @@
   {
     "title": "C Programming (a Modern Approach – 2nd Edition) – K. N. King [pdf]",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/C-Programming-A-Modern-Approach.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c-programming-a-modern-approach-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/C Programming.pdf"
+    "source": "https://www.programmer-books.com/c-programming-a-modern-approach-pdf/"
   }
 ,
   {
@@ -108,12 +105,14 @@
   {
     "title": "Professional LINQ",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/professional-linq/"
+    "source": "https://www.programmer-books.com/professional-linq/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.pdf"
   },
   {
     "title": "Modern C Quick Syntax Reference, 2nd Edition",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/modern-c-quick-syntax-reference-2nd-edition/"
+    "source": "https://www.programmer-books.com/modern-c-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.pdf"
   },
   {
     "title": "Oracle SQL Revealed",
@@ -124,17 +123,20 @@
   {
     "title": "PostgreSQL High Availability Cookbook, 2nd Edition",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/PostgreSQL-High-Availability-Cookbook-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/postgresql-high-availability-cookbook-2nd-edition/"
+    "source": "https://www.programmer-books.com/postgresql-high-availability-cookbook-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/PostgreSQL-High-Availability-Cookbook-2nd-Edition.pdf"
   },
   {
     "title": "Yammer [PDF]",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Yammer.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/yammer-pdf/"
+    "source": "https://www.programmer-books.com/yammer-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Yammer.pdf"
   },
   {
     "title": "Data Structures and Program Design Using C [PDF]",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/datastructure.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/data-structures-and-program-design-using-c-pdf/"
+    "source": "https://www.programmer-books.com/data-structures-and-program-design-using-c-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/data-structures-program-design-using-c.pdf"
   }
 ,
   {
@@ -171,52 +173,154 @@
   {
     "title": "Deep Belief Nets in C++ and CUDA C: Volume 3",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-3/"
+    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-3/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.pdf"
   },
   {
     "title": "Programming PIC Microcontrollers with XC8",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Programming-PIC-Microcontrollers-with-XC8.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-pic-microcontrollers-with-xc8/"
+    "source": "https://www.programmer-books.com/programming-pic-microcontrollers-with-xc8/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Programming-PIC-Microcontrollers-with-XC8.pdf"
   },
   {
     "title": "Deep Belief Nets in C++ and CUDA C: Volume 1",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-1/"
+    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-1/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.pdf"
   },
   {
     "title": "Nim in Action",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Nim-in-Action.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/nim-in-action/"
+    "source": "https://www.programmer-books.com/nim-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Nim-in-Action.pdf"
   },
   {
     "title": "Professional LINQ",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/professional-linq/"
+    "source": "https://www.programmer-books.com/professional-linq/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.pdf"
   },
   {
     "title": "Modern C Quick Syntax Reference, 2nd Edition",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/modern-c-quick-syntax-reference-2nd-edition/"
+    "source": "https://www.programmer-books.com/modern-c-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.pdf"
   },
   {
     "title": "Oracle SQL Revealed",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Oracle-SQL-Revealed.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/oracle-sql-revealed/"
+    "source": "https://www.programmer-books.com/oracle-sql-revealed/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-SQL-Revealed.pdf"
   },
   {
     "title": "PostgreSQL High Availability Cookbook, 2nd Edition",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/PostgreSQL-High-Availability-Cookbook-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/postgresql-high-availability-cookbook-2nd-edition/"
+    "source": "https://www.programmer-books.com/postgresql-high-availability-cookbook-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/PostgreSQL-High-Availability-Cookbook-2nd-Edition.pdf"
   },
   {
     "title": "Yammer [PDF]",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Yammer.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/yammer-pdf/"
+    "source": "https://www.programmer-books.com/yammer-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Yammer.pdf"
   },
   {
     "title": "Data Structures and Program Design Using C [PDF]",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/datastructure.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/data-structures-and-program-design-using-c-pdf/"
+    "source": "https://www.programmer-books.com/data-structures-and-program-design-using-c-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/data-structures-program-design-using-c.pdf"
+  }
+,
+  {
+    "title": "C++ Concurrency in Action, 2nd Edition [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/CConcurrency.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-concurrency-in-action-2nd-edition-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/C-- Concurrency in Action, 2nd Edition.pdf"
+  },
+  {
+    "title": "C++17 By Example [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/C17.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c17-by-example-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c17-example.pdf"
+  },
+  {
+    "title": "C Programming in Linux",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/c-programming-in-linux.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-linux/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/c-programming-in-linux.pdf"
+  },
+  {
+    "title": "Cryptography in C and C++, Second Edition By Michael Welschenbach [pdf]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Cryptography in C and C++, Second Edition By Michael Welschenbach-min.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cryptography-in-c-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Cryptography-in-C-and-C-Second-Edition-By-Michael-Welschenbach.pdf"
+  },
+  {
+    "title": "C Programming (a Modern Approach – 2nd Edition) – K. N. King [pdf]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/C-Programming-A-Modern-Approach.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-a-modern-approach-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/C Programming.pdf"
+  }
+,
+  {
+    "title": "Deep Belief Nets in C++ and CUDA C: Volume 3",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-3/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.pdf"
+  },
+  {
+    "title": "Programming PIC Microcontrollers with XC8",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Programming-PIC-Microcontrollers-with-XC8.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/programming-pic-microcontrollers-with-xc8/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Programming-PIC-Microcontrollers-with-XC8.pdf"
+  },
+  {
+    "title": "Deep Belief Nets in C++ and CUDA C: Volume 1",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-1/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.pdf"
+  },
+  {
+    "title": "Nim in Action",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Nim-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nim-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Nim-in-Action.pdf"
+  },
+  {
+    "title": "Professional LINQ",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/professional-linq/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.pdf"
+  },
+  {
+    "title": "Modern C Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/modern-c-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Oracle SQL Revealed",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Oracle-SQL-Revealed.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-sql-revealed/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-SQL-Revealed.pdf"
+  },
+  {
+    "title": "PostgreSQL High Availability Cookbook, 2nd Edition",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/PostgreSQL-High-Availability-Cookbook-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/postgresql-high-availability-cookbook-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/PostgreSQL-High-Availability-Cookbook-2nd-Edition.pdf"
+  },
+  {
+    "title": "Yammer [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Yammer.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/yammer-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Yammer.pdf"
+  },
+  {
+    "title": "Data Structures and Program Design Using C [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/datastructure.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/data-structures-and-program-design-using-c-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/data-structures-program-design-using-c.pdf"
   }
 ,
   {
@@ -516,96 +620,6 @@
   {
     "title": "Cryptography in C and C++, Second Edition By Michael Welschenbach [pdf]",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Cryptography in C and C++, Second Edition By Michael Welschenbach-min.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/cryptography-in-c-pdf/"
-  },
-  {
-    "title": "C Programming (a Modern Approach – 2nd Edition) – K. N. King [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/C-Programming-A-Modern-Approach.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c-programming-a-modern-approach-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/C Programming.pdf"
-  }
-,
-  {
-    "title": "Deep Belief Nets in C++ and CUDA C: Volume 3",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-3/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.pdf"
-  },
-  {
-    "title": "Programming PIC Microcontrollers with XC8",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Programming-PIC-Microcontrollers-with-XC8.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-pic-microcontrollers-with-xc8/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Programming-PIC-Microcontrollers-with-XC8.pdf"
-  },
-  {
-    "title": "Deep Belief Nets in C++ and CUDA C: Volume 1",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-1/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.pdf"
-  },
-  {
-    "title": "Nim in Action",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Nim-in-Action.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/nim-in-action/"
-  },
-  {
-    "title": "Professional LINQ",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/professional-linq/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.pdf"
-  },
-  {
-    "title": "Modern C Quick Syntax Reference, 2nd Edition",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/modern-c-quick-syntax-reference-2nd-edition/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.pdf"
-  },
-  {
-    "title": "Oracle SQL Revealed",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Oracle-SQL-Revealed.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/oracle-sql-revealed/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-SQL-Revealed.pdf"
-  },
-  {
-    "title": "PostgreSQL High Availability Cookbook, 2nd Edition",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/PostgreSQL-High-Availability-Cookbook-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/postgresql-high-availability-cookbook-2nd-edition/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/PostgreSQL-High-Availability-Cookbook-2nd-Edition.pdf"
-  },
-  {
-    "title": "Yammer [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Yammer.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/yammer-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Yammer.pdf"
-  },
-  {
-    "title": "Data Structures and Program Design Using C [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/datastructure.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/data-structures-and-program-design-using-c-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/data-structures-program-design-using-c.pdf"
-  }
-,
-  {
-    "title": "C++ Concurrency in Action, 2nd Edition [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/CConcurrency.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c-concurrency-in-action-2nd-edition-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/C-- Concurrency in Action, 2nd Edition.pdf"
-  },
-  {
-    "title": "C++17 By Example [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/C17.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c17-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c17-example.pdf"
-  },
-  {
-    "title": "C Programming in Linux",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/c-programming-in-linux.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c-programming-in-linux/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/c-programming-in-linux.pdf"
-  },
-  {
-    "title": "Cryptography in C and C++, Second Edition By Michael Welschenbach [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Cryptography in C and C++, Second Edition By Michael Welschenbach-min.png?resize=100%2C70&ssl=1",
     "source": "https://www.programmer-books.com/cryptography-in-c-pdf/",
     "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Cryptography-in-C-and-C-Second-Edition-By-Michael-Welschenbach.pdf"
   },
@@ -663,97 +677,6 @@
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/PostgreSQL-High-Availability-Cookbook-2nd-Edition.jpg?resize=100%2C70&ssl=1",
     "source": "https://www.programmer-books.com/postgresql-high-availability-cookbook-2nd-edition/",
     "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/PostgreSQL-High-Availability-Cookbook-2nd-Edition.pdf"
-  },
-  {
-    "title": "Yammer [PDF]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Yammer.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/yammer-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Yammer.pdf"
-  },
-  {
-    "title": "Data Structures and Program Design Using C [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/datastructure.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/data-structures-and-program-design-using-c-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/data-structures-program-design-using-c.pdf"
-  }
-,
-  {
-    "title": "C++ Concurrency in Action, 2nd Edition [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/CConcurrency.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c-concurrency-in-action-2nd-edition-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/C-- Concurrency in Action, 2nd Edition.pdf"
-  },
-  {
-    "title": "C++17 By Example [PDF]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/C17.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c17-by-example-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c17-example.pdf"
-  },
-  {
-    "title": "C Programming in Linux",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/c-programming-in-linux.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c-programming-in-linux/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/c-programming-in-linux.pdf"
-  },
-  {
-    "title": "Cryptography in C and C++, Second Edition By Michael Welschenbach [pdf]",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Cryptography in C and C++, Second Edition By Michael Welschenbach-min.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/cryptography-in-c-pdf/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Cryptography-in-C-and-C-Second-Edition-By-Michael-Welschenbach.pdf"
-  },
-  {
-    "title": "C Programming (a Modern Approach – 2nd Edition) – K. N. King [pdf]",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/C-Programming-A-Modern-Approach.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/c-programming-a-modern-approach-pdf/",
-    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/C Programming.pdf"
-  }
-,
-  {
-    "title": "Deep Belief Nets in C++ and CUDA C: Volume 3",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-3/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.pdf"
-  },
-  {
-    "title": "Programming PIC Microcontrollers with XC8",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Programming-PIC-Microcontrollers-with-XC8.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/programming-pic-microcontrollers-with-xc8/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Programming-PIC-Microcontrollers-with-XC8.pdf"
-  },
-  {
-    "title": "Deep Belief Nets in C++ and CUDA C: Volume 1",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-1/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.pdf"
-  },
-  {
-    "title": "Nim in Action",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Nim-in-Action.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/nim-in-action/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Nim-in-Action.pdf"
-  },
-  {
-    "title": "Professional LINQ",
-    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/professional-linq/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.pdf"
-  },
-  {
-    "title": "Modern C Quick Syntax Reference, 2nd Edition",
-    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/modern-c-quick-syntax-reference-2nd-edition/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.pdf"
-  },
-  {
-    "title": "Oracle SQL Revealed",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Oracle-SQL-Revealed.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/oracle-sql-revealed/",
-    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-SQL-Revealed.pdf"
-  },
-  {
-    "title": "PostgreSQL High Availability Cookbook, 2nd Edition",
-    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/PostgreSQL-High-Availability-Cookbook-2nd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/postgresql-high-availability-cookbook-2nd-edition/"
   },
   {
     "title": "Yammer [PDF]",
@@ -1040,6 +963,99 @@
   {
     "title": "Data Structures and Program Design Using C [PDF]",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/datastructure.png?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/data-structures-and-program-design-using-c-pdf/"
+    "source": "https://www.programmer-books.com/data-structures-and-program-design-using-c-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/data-structures-program-design-using-c.pdf"
+  }
+,
+  {
+    "title": "C++ Concurrency in Action, 2nd Edition [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/CConcurrency.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-concurrency-in-action-2nd-edition-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/C-- Concurrency in Action, 2nd Edition.pdf"
+  },
+  {
+    "title": "C++17 By Example [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/C17.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c17-by-example-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c17-example.pdf"
+  },
+  {
+    "title": "C Programming in Linux",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/c-programming-in-linux.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-linux/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/07/c-programming-in-linux.pdf"
+  },
+  {
+    "title": "Cryptography in C and C++, Second Edition By Michael Welschenbach [pdf]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Cryptography in C and C++, Second Edition By Michael Welschenbach-min.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cryptography-in-c-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Cryptography-in-C-and-C-Second-Edition-By-Michael-Welschenbach.pdf"
+  },
+  {
+    "title": "C Programming (a Modern Approach – 2nd Edition) – K. N. King [pdf]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/C-Programming-A-Modern-Approach.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-a-modern-approach-pdf/",
+    "link": "https://download.programmer-books.com?link=https://programmer-books.com/wp-content/uploads/2018/05/C Programming.pdf"
+  }
+,
+  {
+    "title": "Deep Belief Nets in C++ and CUDA C: Volume 3",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-3/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.pdf"
+  },
+  {
+    "title": "Programming PIC Microcontrollers with XC8",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Programming-PIC-Microcontrollers-with-XC8.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/programming-pic-microcontrollers-with-xc8/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Programming-PIC-Microcontrollers-with-XC8.pdf"
+  },
+  {
+    "title": "Deep Belief Nets in C++ and CUDA C: Volume 1",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-1/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.pdf"
+  },
+  {
+    "title": "Nim in Action",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Nim-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/nim-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Nim-in-Action.pdf"
+  },
+  {
+    "title": "Professional LINQ",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/professional-linq/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Professional-LINQ.pdf"
+  },
+  {
+    "title": "Modern C Quick Syntax Reference, 2nd Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/modern-c-quick-syntax-reference-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Modern-C-Quick-Syntax-Reference-2nd-Edition.pdf"
+  },
+  {
+    "title": "Oracle SQL Revealed",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Oracle-SQL-Revealed.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-sql-revealed/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-SQL-Revealed.pdf"
+  },
+  {
+    "title": "PostgreSQL High Availability Cookbook, 2nd Edition",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/PostgreSQL-High-Availability-Cookbook-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/postgresql-high-availability-cookbook-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/PostgreSQL-High-Availability-Cookbook-2nd-Edition.pdf"
+  },
+  {
+    "title": "Yammer [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Yammer.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/yammer-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Yammer.pdf"
+  },
+  {
+    "title": "Data Structures and Program Design Using C [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/datastructure.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/data-structures-and-program-design-using-c-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/data-structures-program-design-using-c.pdf"
   }
 ]

@@ -28,7 +28,8 @@
   {
     "title": "Maven Build Customization",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Maven-Build-Customization-400x494.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/maven-build-customization/"
+    "source": "https://www.programmer-books.com/maven-build-customization/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Maven-Build-Customization.pdf"
   },
   {
     "title": "Natural Language Processing with Java and LingPipe Cookbook",
@@ -48,23 +49,27 @@
   {
     "title": "Spring Boot Messaging",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Spring-Boot-Messaging.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/spring-boot-messaging/"
+    "source": "https://www.programmer-books.com/spring-boot-messaging/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Spring-Boot-Messaging.pdf"
   }
 ,
   {
     "title": "Beginning Java 9 Fundamentals, 2nd Edition",
     "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-Java-9-Fundamentals.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/beginning-java-9-fundamentals-2nd-edition/"
+    "source": "https://www.programmer-books.com/beginning-java-9-fundamentals-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Beginning-Java-9-Fundamentals-2nd-Edition.pdf"
   },
   {
     "title": "Modern Java Recipes",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Modern-Java-Recipes.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/modern-java-recipes/"
+    "source": "https://www.programmer-books.com/modern-java-recipes/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Modern-Java-Recipes.pdf"
   },
   {
     "title": "Social Security For Dummies, 3rd Edition",
     "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Social-Security-For-Dummies-3rd-Edition.jpg?resize=100%2C70&ssl=1",
-    "source": "https://www.programmer-books.com/social-security-for-dummies-3rd-edition/"
+    "source": "https://www.programmer-books.com/social-security-for-dummies-3rd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Social-Security-For-Dummies-3rd-Edition.pdf"
   },
   {
     "title": "Pro Spring 5, 5th Edition",
@@ -100,5 +105,178 @@
     "title": "Learn Java the Easy Way",
     "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Learn-Java-the-Easy-Way.jpg?resize=100%2C70&ssl=1",
     "source": "https://www.programmer-books.com/learn-java-the-easy-way/"
+  }
+,
+  {
+    "title": "Java APIs, Extensions and Libraries, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Java-APIs-Extensions-and-Libraries-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-apis-extensions-and-libraries-2nd-edition/"
+  },
+  {
+    "title": "Java Image Processing Recipes",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Java-Image-Processing-Recipes.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-image-processing-recipes/"
+  },
+  {
+    "title": "Exploring Java 9",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Exploring-Java-9.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/exploring-java-9/"
+  },
+  {
+    "title": "Spring Microservices in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Spring-Microservices-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/spring-microservices-in-action/"
+  },
+  {
+    "title": "Gradle Effective Implementations Guide, Second Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Gradle-Effective-Implementations-Guide-Second-Edition-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/gradle-effective-implementations-guide/"
+  },
+  {
+    "title": "Modern Java in Action, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Modern-Java-in-Action-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/modern-java-in-action-2nd-edition/"
+  },
+  {
+    "title": "Java For Dummies, 7th Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Java-For-Dummies-7th-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-for-dummies-7th-edition/"
+  },
+  {
+    "title": "Gradle Effective Implementation Guide",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Gradle-Effective-Implementation-Guide-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/gradle-effective-implementation-guide/"
+  },
+  {
+    "title": "JUnit in Action, Second Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/JUnit-in-Action-Second-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/junit-in-action-second-edition/"
+  },
+  {
+    "title": "Spring Boot 2 Recipes",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Spring-Boot-2-Recipes.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/spring-boot-2-recipes/"
+  }
+,
+  {
+    "title": "Java Game Development with LibGDX, 2nd Edition",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Java-Game-Development-with-LibGDX.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-game-development-with-libgdx-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Java-Game-Development-with-LibGDX-2nd-Edition.pdf"
+  },
+  {
+    "title": "Java XML and JSON, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Java-XML-and-JSON-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-xml-and-json-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Java-XML-and-JSON-2nd-Edition.pdf"
+  },
+  {
+    "title": "Java Programming, 9th Edition",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Java-Programming-9th-Edition-400x495.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-programming-9th-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/01/Java-Programming-9th-Edition.pdf"
+  },
+  {
+    "title": "Java EE Web Application Primer",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Java-EE-Web-Application-Primer.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-ee-web-application-primer/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Java-EE-Web-Application-Primer.pdf"
+  },
+  {
+    "title": "Java EE 8 Recipes, 2nd Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Java-EE-8-Recipes-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-ee-8-recipes-2nd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Java-EE-8-Recipes-2nd-Edition.pdf"
+  },
+  {
+    "title": "The Definitive Guide to JSF in Java EE 8",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/The-Definitive-Guide-to-JSF-in-Java-EE-8.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-definitive-guide-to-jsf-in-java-ee-8/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/The-Definitive-Guide-to-JSF-in-Java-EE-8.pdf"
+  },
+  {
+    "title": "Practical JSF in Java EE 8",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Practical-JSF-in-Java-EE-8.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-jsf-in-java-ee-8/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Practical-JSF-in-Java-EE-8.pdf"
+  },
+  {
+    "title": "Beginning EJB in Java EE 8, 3rd Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Beginning-EJB-in-Java-EE-8-3rd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-ejb-in-java-ee-8-3rd-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Beginning-EJB-in-Java-EE-8-3rd-Edition.pdf"
+  },
+  {
+    "title": "Neural Network Programming with Java",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Neural-Network-Programming-with-Java.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/neural-network-programming-with-java/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Neural-Network-Programming-with-Java.pdf"
+  },
+  {
+    "title": "Docker and Kubernetes for Java Developers: Scale, deploy, and monitor multi-container applications",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Docker-and-Kubernetes-for-Java-Developers.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/docker-and-kubernetes-for-java-developers/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/10/Docker.Kubernetes.Java_.Developers.Multi_.Container.18.pdf"
+  }
+,
+  {
+    "title": "Java Servlet Programming [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Java-servlet-programming.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-servlet-programming-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Java-Servlet-Programming.pdf"
+  },
+  {
+    "title": "Java Servlet & JSP Cookbook [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Java-servlet.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-servlet-jsp-cookbook-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Perry-2004-Java-Servlet-and-JSP-Cookbook-OReilly.pdf"
+  },
+  {
+    "title": "Java Cookbook [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/09/Java-cookbook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-cookbook-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/09/Oreilly.Java_.Cookbook.2nd.Edition.Jun_.2004.pdf"
+  },
+  {
+    "title": "Java Game Development with LibGDX, 2nd Edition [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/javadevgame.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-game-development-with-libgdx-2nd-edition-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Java Game Development with LibGDX, 2nd Edition.pdf"
+  },
+  {
+    "title": "Fundamentals of Java Programming [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/fundamofjava.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/fundamentals-of-java-programming-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/fundamentals-of-java-programming.pdf"
+  },
+  {
+    "title": "Learn Java for Web Development [PDF]",
+    "picture": "https://www.programmer-books.com/wp-content/uploads/2018/06/apress-learn-java-for-web-development-2014-pdf.jpg",
+    "source": "https://www.programmer-books.com/learn-java-for-web-development-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/apress-learn-java-for-web-development-2014.pdf"
+  },
+  {
+    "title": "Java 15: More about JavaFX",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/java-15-more-about-javafx.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-15-more-about-javafx/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/java-15-more-about-javafx.pdf"
+  },
+  {
+    "title": "Java 14: Development of applications with JavaFX",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/java-14-development-of-applications-with-javafx.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/development-of-applications-with-javafx/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/java-14-development-of-applications-with-javafx.pdf"
+  },
+  {
+    "title": "Java 13: Distributed programming and Java EE",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/java-13-distributed-programming-and-java.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/jdistributed-programming-and-java-ee/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/java-13-distributed-programming-and-java.pdf"
+  },
+  {
+    "title": "Java 12: WWW and development of the client part",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/java-12-www-and-development-of-the-client-part.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/java-12-www-and-development-of-the-client-part/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/java-12-www-and-development-of-the-client-part.pdf"
   }
 ]
