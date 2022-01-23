@@ -1,0 +1,106 @@
+[
+
+  {
+    "title": "Clean C++",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Clean-C-.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/clean-c/"
+  },
+  {
+    "title": "Beginning C++17, 5th Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Beginning-C-17-5th-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c17-5th-edition/"
+  },
+  {
+    "title": "C++ Programming in easy steps, 5th Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/C-Programming-in-easy-steps-5th-Edition-400x498.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-in-easy-steps-5th-edition/"
+  },
+  {
+    "title": "C++ Concurrency in Action, 2nd Edition",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/C-Concurrency-in-Action-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-concurrency-in-action-2nd-edition/"
+  },
+  {
+    "title": "Deep Belief Nets in C++ and CUDA C: Volume 3",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-3.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-3/"
+  },
+  {
+    "title": "Deep Belief Nets in C++ and CUDA C: Volume 1",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Deep-Belief-Nets-in-C-and-CUDA-C-Volume-1.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/deep-belief-nets-in-c-and-cuda-c-volume-1/"
+  },
+  {
+    "title": "Assessing and Improving Prediction and Classification",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Assessing-and-Improving-Prediction-and-Classification.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/assessing-and-improving-prediction-and-classification/"
+  },
+  {
+    "title": "Design Patterns in Modern C++",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Design-Patterns-in-Modern-C.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/design-patterns-in-modern-c/"
+  },
+  {
+    "title": "Borland C++ Builder",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Borland-C-Builder.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/borland-c-builder/"
+  },
+  {
+    "title": "Beginning Programming with C++ For Dummies, 2nd Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Beginning-Programming-with-C-For-Dummies-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-programming-with-c-for-dummies-2nd-edition/"
+  }
+,
+  {
+    "title": "Oracle SQL Revealed",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Oracle-SQL-Revealed.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/oracle-sql-revealed/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Oracle-SQL-Revealed.pdf"
+  },
+  {
+    "title": "Yammer [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Yammer.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/yammer-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Yammer.pdf"
+  },
+  {
+    "title": "Testing and Tuning Market Trading Systems [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/12/Testing-and-Tuning-Market-Trading-Systems.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/testing-and-tuning-market-trading-systems-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/12/Testing-and-Tuning-Market-Trading-Systems.pdf"
+  },
+  {
+    "title": "Game Programming in C++ [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/cppgames.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/game-programming-in-c-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/Game-Programming-in-C-Creating-3D-Games.pdf"
+  },
+  {
+    "title": "Beginning C++ Programming [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/begC.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-c-programming-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/beginning-c-programming.pdf"
+  },
+  {
+    "title": "C++ Concurrency in Action, 2nd Edition [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/CConcurrency.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-concurrency-in-action-2nd-edition-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/C-- Concurrency in Action, 2nd Edition.pdf"
+  },
+  {
+    "title": "C++17 By Example [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/08/C17.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c17-by-example-pdf/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/08/c17-example.pdf"
+  },
+  {
+    "title": "Cryptography in C and C++, Second Edition By Michael Welschenbach [pdf]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/Cryptography in C and C++, Second Edition By Michael Welschenbach-min.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/cryptography-in-c-pdf/"
+  },
+  {
+    "title": "C++ Programming: Program Design Including Data Structures 5th Edition [pdf]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/05/C-Programming-Program-Design-Including-Data-Structures-5th-Edition.png?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/c-programming-program-design-pdf/"
+  }
+]

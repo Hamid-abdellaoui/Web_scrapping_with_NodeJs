@@ -1,0 +1,58 @@
+[
+
+  {
+    "title": "Pro ASP .NET 4.5 in C#, 5th Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Pro-ASP-.NET-4.5-in-C-5th-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/pro-asp-net-4-5-in-c-5th-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/05/Pro-ASP-.NET-4.5-in-C-5th-Edition.pdf"
+  },
+  {
+    "title": "Pro ASP.NET Core MVC 2, 7th Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Pro-ASP.NET-Core-MVC-2-7th-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/pro-asp-net-core-mvc-2-7th-edition/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/04/Pro-ASP.NET-Core-MVC-2-7th-Edition.pdf"
+  },
+  {
+    "title": "Modern API Design with ASP.NET Core 2",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Modern-API-Design-with-ASP.NET-Core-2.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/modern-api-design-with-asp-net-core-2/"
+  },
+  {
+    "title": "Front-end Development with ASP.NET Core, Angular, and Bootstrap",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Front-end-Development-with-ASP.NET-Core-Angular-and-Bootstrap.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/front-end-development-with-asp-net-core-angular-and-bootstrap/"
+  },
+  {
+    "title": "Microsoft Excel VBA Programming for the Absolute Beginner, 3rd Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Microsoft-Excel-VBA-Programming-for-the-Absolute-Beginner-3rd-Edition-400x495.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/microsoft-excel-vba-programming-for-the-absolute-beginner-3rd-edition/"
+  },
+  {
+    "title": "Blazor Revealed",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Blazor-Revealed.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/blazor-revealed/"
+  },
+  {
+    "title": "Pro Entity Framework Core 2 for ASP.NET Core MVC",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Pro-Entity-Framework-Core-2-for-ASP.NET-Core-MVC.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/pro-entity-framework-core-2-for-asp-net-core-mvc/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Pro-Entity-Framework-Core-2-for-ASP.NET-Core-MVC.pdf"
+  },
+  {
+    "title": "Rx.NET in Action",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Rx.NET-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/rx-net-in-action/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/03/Rx.NET-in-Action.pdf"
+  },
+  {
+    "title": "ASP.NET 1.1 Solutions Toolkit",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/ASP.NET-1.1-Solutions-Toolkit.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/asp-net-1-1-solutions-toolkit/"
+  },
+  {
+    "title": "Pro SharePoint 2007 Development Techniques",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Pro-SharePoint-2007-Development-Techniques-400x493.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/pro-sharepoint-2007-development-techniques/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2019/02/Pro-SharePoint-2007-Development-Techniques.pdf"
+  }
+]

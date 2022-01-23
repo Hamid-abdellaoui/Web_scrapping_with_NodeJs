@@ -1,0 +1,33 @@
+[
+
+  {
+    "title": "Elixir in Action, 2nd Edition",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Elixir-in-Action-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/elixir-in-action-2nd-edition/"
+  },
+  {
+    "title": "Erlang and OTP in Action",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Erlang-and-OTP-in-Action.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/erlang-and-otp-in-action/"
+  },
+  {
+    "title": "Erlang Programming",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Erlang-Programming.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/erlang-programming/"
+  },
+  {
+    "title": "Designing for Scalability with Erlang/OTP",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Designing-for-Scalability-with-Erlang-OTP-Implementing-Robust-Fault-Tolerant-Systems.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/designing-for-scalability-with-erlang-otp/"
+  },
+  {
+    "title": "Erlang and Elixir for Imperative Programmers",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/erlang-and-elixir-for-imperative-programmers-1st-edition-pdf-download.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/erlang-and-elixir-for-imperative-programmers/"
+  },
+  {
+    "title": "Programming Erlang: Software for a Concurrent World",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/10/Programming-Erlang-Software-for-a-Concurrent-World.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/programming-erlang-software-for-a-concurrent-world/"
+  }
+]

@@ -1,0 +1,65 @@
+[
+
+  {
+    "title": "Test Driven Development in Ruby",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/05/Test-Driven-Development-in-Ruby.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/test-driven-development-in-ruby/"
+  },
+  {
+    "title": "Practical Ruby Gems",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/04/Practical-Ruby-Gems.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-ruby-gems/"
+  },
+  {
+    "title": "Beginning Ruby On Rails E-Commerce",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/Beginning-Ruby-On-Rails-E-Commerce-400x494.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/beginning-ruby-on-rails-e-commerce/"
+  },
+  {
+    "title": "Learn Rails 5.2",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/03/Learn-Rails-5.2.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/learn-rails-5-2/"
+  },
+  {
+    "title": "The Well-Grounded Rubyist, 2nd Edition",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2019/02/The-Well-Grounded-Rubyist-2nd-Edition.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-well-grounded-rubyist-2nd-edition/"
+  },
+  {
+    "title": "Ruby Phrasebook",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2019/01/Ruby-Phrasebook.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/ruby-phrasebook/"
+  },
+  {
+    "title": "Agile Web Development with Rails 5 [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Agile-Web-Development-with-Rails-5.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/agile-web-development-with-rails-5-pdf/"
+  },
+  {
+    "title": "Metaprogramming Ruby 2: Program Like the Ruby Pros [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Metaprogramming-Ruby-2-Program-Like-the-Ruby-Pros.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/metaprogramming-ruby-2/"
+  },
+  {
+    "title": "Practical Object-Oriented Design in Ruby: An Agile Primer [PDF]",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Practical-Object-Oriented-Design-In-Ruby.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/practical-object-oriented-design-in-ruby/"
+  },
+  {
+    "title": "Eloquent Ruby by Russ Olsen [PDF]",
+    "picture": "https://i2.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/Eloquent-Ruby-by-Russ-Olsen.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/eloquent-ruby-by-russ-olsen-pdf/"
+  }
+,
+  {
+    "title": "The Well-Grounded Rubyist [PDF]",
+    "picture": "https://i0.wp.com/www.programmer-books.com/wp-content/uploads/2018/07/The-Well-Grounded-Rubyist.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/the-well-grounded-rubyist-pdf/"
+  },
+  {
+    "title": "Ruby Data Structures and Algorithms",
+    "picture": "https://i1.wp.com/www.programmer-books.com/wp-content/uploads/2018/06/ruby-data-structures-and-algorithms.jpg?resize=100%2C70&ssl=1",
+    "source": "https://www.programmer-books.com/ruby-data-structures-and-algorithms/",
+    "link": "https://download.programmer-books.com?link=https://www.programmer-books.com/wp-content/uploads/2018/06/ruby-data-structures-and-algorithms.pdf"
+  }
+]
